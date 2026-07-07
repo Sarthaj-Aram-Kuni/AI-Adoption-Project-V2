@@ -1,0 +1,35 @@
+# core
+pandas>=2.1
+numpy>=1.26
+pyyaml>=6.0
+pyarrow>=14.0
+tqdm>=4.66
+
+# collection
+requests>=2.31
+beautifulsoup4>=4.12
+selenium>=4.16
+tldextract>=5.1
+
+# geography
+geopy>=2.4
+
+# NLP / classification
+nltk>=3.8
+scikit-learn>=1.3
+sentence-transformers>=2.3
+
+# network
+networkx>=3.2
+
+# statistics
+statsmodels>=0.14
+firthlogist>=0.5      # Firth penalized logistic regression
+scipy>=1.11
+
+# visualization
+matplotlib>=3.8
+seaborn>=0.13
+
+# quality
+pytest>=7.4
