@@ -1,0 +1,1479 @@
+company_number,Officer_full_name,occupation,has_skills,has_education,has_summary,n_skills
+63351,John Alistair Betts Gordon,Company Director,1,1,0,12
+63351,Robert Arthur Betts Gordon,Company Director,0,0,0,0
+191194,Angela Sarah Taylor,Co Secretary,0,0,0,0
+191194,Anthony Thomas Peter Smith,Director,1,1,0,17
+191194,Christopher Paul Marsh,Director,1,0,0,18
+257353,Ilias Spyropoulos,(blank),1,1,1,50
+257353,James Edwin Briggs,Managing Director/Chairman,1,1,0,21
+257353,Michael Fallis-Taylor,Managing Director,1,1,1,50
+267550,Ian Charles Cooper,Company Director,1,1,0,7
+267550,Michael Ord,Company Director,1,1,0,6
+267550,Paul Macgregor,Company Director,1,1,1,46
+307186,Dominic James Haworth Broom,Banker,1,1,1,8
+307186,Filomena Teixeira,Trustee Director,1,1,1,25
+307186,Jayakumar Venkataraman,Trustee Director,1,1,0,39
+307186,John Henry Myers Alty,Trustee Director,1,1,1,36
+307186,Marcel Hugo Landau,Self Employed,1,1,0,20
+307186,Mark Charles Lincoln,Supply Chain Director,1,1,1,20
+307186,Nicholas Cyril Clark,Trustee Director,1,1,1,20
+307186,"Professor Khorana, Sangeeta",University Professor,1,1,1,20
+307186,Stephen Mcquillan,Director,1,1,1,20
+307186,Terence Charles William Scuoler,Chief Executive,1,1,1,5
+395974,Malcolm Sean Parkinson,Commercial Director,1,0,0,18
+453791,Bevan John Browne,Company Director,1,1,1,8
+453791,John Michael Delaney,Director,1,1,0,7
+453791,Katie Elizabeth Smart,(blank),1,1,1,24
+453791,Mark Thomas Wood,Commercial Director,0,0,0,0
+453791,Robin John Doody,Regional Director,1,1,1,27
+453791,Shaun Davidson,Managing Director Asphalt & Paving,0,1,0,0
+453791,Simon James Grey,Company Director,0,0,0,0
+504877,Alexander David Baldock,Director,1,1,0,1
+504877,Andrew David Gamble,Director,1,0,1,42
+504877,Bruce Marsh,Director,1,1,0,5
+504877,Edward John Connolly,Director,1,1,0,39
+504877,Lindsay Joanne Haselhurst,Director,1,1,1,19
+504877,Paula Coughlan,Chief Hr Officer,1,1,0,19
+504877,Sarah Thomas,(blank),1,1,1,16
+571546,Geoffrey John Twist,Managing Director,1,1,0,20
+571546,Niklas Kruse,Finance Director,0,1,0,0
+634143,Alan Dykes,Director,0,1,0,0
+634143,Christopher John Maidment,Director,1,1,1,17
+634143,Christopher John Pritchard,(blank),1,1,1,20
+634143,Martin Coates,Engineering Director,1,1,0,5
+634143,Matthew Edward Charles Cotton,Company Director,1,1,1,24
+634143,Timothy John Puttick,Manufacturing Director,0,0,0,0
+696597,Hector Alexander Jack Worsley,Company Director,1,1,1,20
+696597,William Albert Prangle,Technical Sales Director,0,1,0,0
+703317,James Nicholas Czerniewski,(blank),1,1,1,11
+703317,Jemimah Parnell,Group People Director,1,1,1,37
+703317,Luan Rosalie Hughes,Chief Information Officer,1,1,0,5
+703317,Michael James Mohan,Group Engineering Director,1,1,0,13
+703317,Nicholas Harvey,Director Of Legal And Commercial,1,0,0,16
+717462,Lynn Kerfoot,Director,1,1,0,16
+891734,Mark Adrian Stockwell,(blank),1,0,1,4
+891734,Neil Stockwell,Engineer,1,0,0,9
+912182,David Jonathan Richard England,(blank),0,1,0,0
+912182,Ian Alexander Waddell,"Vice President, International Services",1,1,1,26
+912182,Katherine Ann Maher,Director,1,1,0,1
+912182,Simon Ross Smith,Accountant,1,1,1,79
+912182,Yvonne Low Min Lee,Finance Director,1,1,1,25
+943935,Clive David Hart,Finance Director,1,1,0,5
+943935,Nivedita Krishnamurthy Bhagat,Cfo,1,0,0,7
+943935,Olivier Sevillia,Director,1,1,0,20
+943935,Paul Arthur Margetts,Managing Director,1,0,1,11
+943935,Rosemary Joy Stark,Vice President,1,1,1,19
+961158,Damon Russell Rainsford,Director,1,1,1,13
+968498,Stefan John Maynard,Director,1,1,0,18
+984268,Christopher Mark Mcleish,Director,1,1,1,19
+984268,Joseph Hudson,Company Director,1,1,1,20
+1036298,Mammen Eapen,Chartered Accountant,1,0,0,2
+1036298,Montague Fraser Barlow,Chief Executive Officer,1,1,1,4
+1036298,Timothy Richard Fowler,Chief Sales Officer,1,1,1,41
+1092135,Graeme Lea,Support Services Director,0,0,1,0
+1092135,Rachel Helen Bent,Finance Director,0,1,0,0
+1242171,Anthony John Ingham,Company Secretary,1,1,0,15
+1259946,Joanne Louise Mantell,Director,1,1,1,18
+1266357,Geraldine Fernandez,Public Relations,1,1,1,29
+1266357,Louise Adele Stewart Muir,Pr Consultant,1,1,1,31
+1267496,David Matthew George,(blank),1,1,1,35
+1267496,Geoffrey David Jackson,Company Director,1,0,1,15
+1290439,Lauren Knickman,Company Director,1,1,1,27
+1290439,Maria Laine,"President, Uk, Ireland & Nordic Region",1,1,0,43
+1290439,Stephen Kenneth Parker,Vp / Gm - Bombers & Fighters,1,1,1,12
+1310740,George Alexander Weatherall,Chartered Accountant,1,1,1,25
+1310740,Jeanette Carney,(blank),1,0,1,21
+1332249,Emil Edward Peters,Company Director,1,1,0,3
+1332249,Jonathan Paul Furniss,(blank),1,1,1,39
+1337451,Andrea Jayne Thompson,Director,1,1,0,44
+1337451,Anthony Clarke,(blank),0,0,0,0
+1337451,Bruce Martin,Finance Director,1,1,1,50
+1424855,Charles Joseph Kennelly,Company Director,1,0,1,22
+1424855,Stuart Richard Bonthrone,Company Director,1,1,0,28
+1470151,Anthony Clarke,(blank),0,0,0,0
+1470151,Bradley Madsen Greve,Director,1,1,1,38
+1470151,Charles Nicholas Woodburn,Director,1,1,1,5
+1470151,"Dr Griffiths, Jane Veronica",Director,1,1,1,12
+1470151,"Dr Kirk, Ewan Mckinnon",Company Director,1,1,1,9
+1470151,Nicholas John Anderson,Director,1,1,0,15
+1470151,Stephen Thomas Pearce,Finance Director,1,1,1,20
+1470151,Thomas Arnold Arseneault,President & Ceo,0,1,1,0
+1473482,Nicholas Stephen Wilson,Chief Executive,1,1,1,18
+1584718,John Anthony Beard,Group Chief Commercial Officer,1,1,1,12
+1584718,Marcus Christian Jehle,Chief Financial Officer,1,1,0,1
+1584718,Michael John Norris,Chief Executive,1,1,1,17
+1672509,Cathy Elaine Chandler,Quality Director,1,1,0,20
+1672509,John Philip Moth,Operations Director,1,0,1,5
+1672509,Sadie Helen Snowdon,Director,0,0,0,0
+1738519,Andrew John Finney,Non - Executive Director,1,0,0,20
+1738519,Jeremy Shane Nash,Chief Executive Officer,1,1,1,22
+1738519,Michael Geoffrey Keegan,Non Executive Director,1,1,1,48
+1738519,Michael Jonathan Elliott,Company Director,1,1,0,4
+1738519,Peter Fearn,Non-Executive Director,1,1,0,14
+1738519,Rebecca Razzak,Director,0,1,0,0
+1754990,Jonathan James Harston,Finance Director,1,1,1,29
+1754990,Nicholas Stephen Wilson,Chief Executive,1,1,1,18
+1759903,Gerald Maurice Webb,Space Technology Technology,1,1,1,10
+1763682,Shirley Anne Jones,Director,1,0,1,20
+1782505,David James Hudson,Solicitor,1,1,0,9
+1782505,David James Hudson,(blank),1,1,0,9
+1782505,Glenn Sharpe,Financial Controller,1,1,0,32
+1785956,Jake Ian Hadley,(blank),1,1,1,26
+1785956,Nathan David Hadley,Director,1,1,0,31
+1786402,Sooman Park,Director,1,1,1,14
+1847363,Joanne Denise Wright,(blank),0,0,0,0
+1847363,John Joseph White,Engineer,0,1,0,0
+1849306,Antoni Waldemar Koszykowski,C.E.O.,0,0,0,0
+1874256,Mark Arthur Eidem,Technical Sales Manager,1,1,0,17
+1874256,Richard Philip Eldridge,Director,1,1,0,20
+1874256,Richard Philip Eldridge,(blank),1,1,0,25
+1895277,Benjamin Ian Fallows,Company Director,0,0,0,0
+1895277,Benjamin Ian Fallows,(blank),0,0,0,0
+2051250,Paul Sharp,Director,1,1,1,16
+2081330,Adolfo Hernandez,Director,1,1,1,43
+2081330,Brian David Mcarthur-Muscroft,Director,0,0,0,0
+2081330,"Dr Abulokwe, Nneka Nancy",Director,1,1,1,20
+2081330,Georgina Harvey,Director,1,1,0,20
+2081330,Neelam Dhawan,Director,1,1,1,1
+2096520,Stuart Barry David Fillingham,Vp Group And Commercial Finance,1,1,1,50
+2109168,Hazel Jayne Sagar,Chief Financial Officer,0,1,0,0
+2109168,Jorden Jones,Chief Revenue Officer,1,1,1,20
+2109168,Kevin William Goodall,Managing Director,1,1,1,34
+2109168,Philip Mark Kelway Doye,Chief Executive,1,0,1,14
+2109168,Ruth Gomez Balaguer,(blank),1,1,0,27
+2109168,Timothy Nicholas Hall,Services Director,1,1,1,23
+2150688,Rod Anthony Tonna-Barthet,Chief Executive,1,1,1,35
+2174990,"Dr Mecklenburgh, Kathryn Isabel",Cfo,1,1,1,29
+2174990,Graeme Alistair Watt,Director,1,1,1,22
+2174990,Graham Charlton,Ceo,1,1,0,25
+2174990,Luke Thomas,(blank),1,1,0,5
+2174990,Lynne Marie Weedall,Director,1,0,1,3
+2174990,Mayank Prakash,Director,1,1,1,20
+2174990,Robyn Perriss,Director,1,1,1,6
+2174990,Vinodka Murria,Company Director,1,1,1,38
+2203086,Hiroyuki Fukushima,Director,0,0,0,0
+2203086,Takaaki Hagiwara,Director,1,1,1,9
+2228255,Deborah Finkler,Solicitor,0,1,1,0
+2228255,Gareth Alan Miles,Solicitor,0,0,0,0
+2228255,Jill Hoseason,Chief Operating Officer,0,1,0,0
+2228255,Simon G.,(blank),1,0,1,47
+2228255,Richard James Smith,Solicitor,0,1,0,0
+2228255,Sally Victoria Kate Wokes,Solicitor,1,1,0,11
+2242713,Charles Samuel Geoffrey Staveley,Solicitor,1,1,1,12
+2242713,Claire Margaret Clarke,Solicitor,0,1,0,0
+2285049,Adrian Leer,Commercial Director,1,1,1,50
+2305889,Ian Andrew Murphy,Engineering Director,1,1,1,40
+2305889,Timothy Jackson,Director,0,0,0,0
+2353541,Andrew Burns,Accountant,1,0,1,11
+2353541,James Peter Laird,Chief Operations Officer,1,1,0,29
+2353541,Nigel Henry Cannings,Software Director,1,1,1,20
+2359431,Mark Edward Pepper,Company Director,1,1,0,13
+2359431,"Ms. Emmett, Helen",Director,1,1,1,22
+2359431,Ronan Hanna,Company Secretary,1,1,0,9
+2407332,Amir Harel,Managing Director,1,1,1,26
+2407332,Catherine Zhang,(blank),1,1,1,50
+2415578,Ã–zkan Ã‡Imen,Director,1,1,1,20
+2415578,Hakan Hamdi Bulgurlu,Mechanical Engineer,1,1,0,9
+2415578,Mehmet Ragip Balcioglu,Director,1,1,1,46
+2415578,Susen Rakibe Musal,(blank),1,1,0,17
+2445645,Ashley Peter Michael Flood,Finance Director,1,1,0,13
+2445645,Nicola Jane Walford,Operations Director,1,0,0,6
+2457888,Amanda Jane Elliffe,Senior Finance Manager,1,1,0,16
+2457888,Blake King,Finance Group Director,0,0,0,0
+2465350,Christina Marie Corley,Director,0,1,1,0
+2465350,Lorraine Helen Van Barthold,Director,1,1,1,18
+2465350,Malcolm John Pape,Director,1,1,1,34
+2465350,Penelope Ruth Williams,Director,1,0,1,20
+2465350,Peter R. Locy,Director,1,1,0,39
+2485577,Arnaud Benoit Flande,Group General Counsel,1,1,1,47
+2485577,Mark Andrew Hewitt,Company Director,1,1,1,40
+2485577,Patricia Crossley-Smith,Company Director,1,1,1,21
+2485577,Richard Alan Morgans,Company Director,1,1,1,50
+2485577,Zoe Lewis,Company Director,1,1,1,50
+2503575,Gautam Samanta,Business Executive,1,1,1,20
+2528681,Diana Mary La Fontaine,(blank),1,1,1,22
+2528681,Mark Russell Thomas,Company Director,1,1,1,50
+2528681,Tristan Phillip Mitchell,Company Director,1,1,1,30
+2597337,Sonja Wood,Operations Manager,0,1,0,0
+2597337,Sonja Wood,(blank),0,1,0,0
+2597337,Tristan Melrose Wood,Chief Technical Officer,1,1,0,18
+2597337,William Drummond Mathieson,Retired,1,1,1,36
+2647929,Brett Gary Draper,Business Manager,1,0,1,20
+2657917,Gary Marven,,1,1,0,18
+2657917,Godfrey Alexander Wilson,Businessman,1,1,1,20
+2657917,John Washington Stevens,Businessman,1,1,1,50
+2731277,Abhishek Singh,Director,1,1,1,25
+2731277,Ashank Datta Desai,Director,1,1,0,1
+2731277,David Leslie O'brien,Company Director,1,1,0,1
+2731277,Hiral Suresh Chandrana,Company Director,1,1,1,51
+2731277,Judith Anne Halkerston,Company Director,1,1,1,16
+2731277,Rajeev Kumar Grover,Director,1,1,1,28
+2731277,Soutik Sarkar,(blank),1,1,1,46
+2746616,Adam David Christopher Westley,(blank),1,1,1,35
+2746616,Henry Adam Udow,Chief Legal Officer,1,1,1,3
+2746616,Nicholas Lawrence Luff,Company Director,0,1,0,0
+2752012,Michael James O'hare,Machinery Importer And Exporte,0,0,0,0
+2752012,Raymond Christopher Ohare,(blank),1,0,0,18
+2752012,Raymond Christopher O'hare,,1,0,0,18
+2753294,Andrew David Graham,Director,1,1,0,21
+2753750,Adam John Wickes,Personnel Consultant,1,1,1,4
+2753750,David James Wickes,Personnel Consultant,1,0,1,8
+2753750,Karen Fitzsimmons,Employment Law Consultant,1,1,1,5
+2772898,David Mulcahy,Company Director,1,1,1,10
+2828533,Matthew John Hyne,Director,0,0,0,0
+2832014,"Mr. Jackson, Christopher Richard",Vp Sales Northern & Central Europe (Incorporating,1,1,0,16
+2832014,"Mr. Mills, Craig Charles Edward",Cfo,0,0,0,0
+2832014,"Mr. Mills, Craig Charles Edward",(blank),0,0,0,0
+2847611,Lorenzo Zaccheo,Director,0,0,0,0
+2847611,Teresa Zaccheo,(blank),0,0,0,0
+2900722,Eifion Wyn Morris,Chief Executive,0,0,1,0
+2900722,Gabrielle Teresa Kaiser,(blank),1,0,0,15
+2900722,Paul Anthony Thwaite,Senior Partner,0,0,0,0
+2906489,Jacqueline Victoria Moores,Principal,1,1,0,20
+2922570,Edward Elcoat Poulton,Solicitor,1,1,1,15
+2922570,Katherine Ann Hallam,Hr Director,1,1,0,18
+2922570,Matthew Peter Vigor,Accountant,1,1,1,17
+2924046,Francis Toye,Company Director,1,1,1,19
+2978869,Owen John Watters,(blank),1,1,1,22
+2978869,Yvonne Burke,Accountant,0,0,0,0
+2983376,David Carty,Finance Director,0,0,0,0
+2983376,David Carty,(blank),0,0,0,0
+2983376,Sarah Clough,Vp Human Resources,1,1,0,12
+2998329,James Mc Gowan,"Senior Director, Finance",1,1,1,49
+3022416,Kerry Louise Randall,"Vice President, Global Site Activation",1,1,0,16
+3022416,Kevin John Turland,Accountant,1,0,0,12
+3022416,Natalia Alexandra Kotchie,"Vice President, R & D Solutions",1,1,0,20
+3022416,Timothy Peter Sheppard,General Manager,1,1,0,1
+3097504,Christopher Paul Morris,Company Director,1,1,1,37
+3097504,Eloise Wann,Chief Financial Officer,1,1,1,18
+3097504,Matthew Hartley Stewart,Managing Director,1,1,1,9
+3123290,Alison Ashman,Head Of Financial Accounting & Tax,1,1,0,8
+3123290,Amy Lyttle,Head Of Financial Accounting And Tax,1,1,0,15
+3123290,Paul Matthew Butterworth,Director Of Strategic Financial Management,1,1,1,20
+3127414,David Gompel,"Managing Director, Europe",1,1,1,20
+3127414,Laurent Pretet,Director,1,1,1,10
+3127414,Olivier Padiou,Director,0,1,1,0
+3128724,James Donal Davis,Finance Director,1,1,1,18
+3128724,Sam Toulson,Accountant,1,1,1,31
+3137929,Cara Mascini-Van Bergen,Director,1,1,1,52
+3137929,Jennifer Rachel Holmes,Company Director,1,1,1,12
+3137929,Kurt Erik Johannes Lindqvist,Chief Executive Officer,1,1,1,50
+3137929,Peter Robert Stevens,Managing Director,1,1,1,38
+3137929,Pieter Cornelis Knook,,1,1,1,20
+3137929,Richard Petrie,Chief Technical Officer,1,1,0,20
+3137929,Simon Alexander Lockhart,Director,1,1,1,35
+3137929,Steven Edward Glendinning,Director,1,1,1,18
+3153710,Robert Janos Bokros,Managing Director,1,1,1,50
+3153710,Thomas Edward Bokros,Business Development,1,1,1,40
+3171341,"Dr Fiske, Stuart John",Computer Consultant,1,1,1,23
+3171341,Neil Mcevoy,Computer Consultant,1,1,0,8
+3201839,Shira Yashar,General Counsel,0,0,0,0
+3208975,Peter Edwin Clapton,Chief Executive Officer,1,0,1,31
+3214465,Jayne Louise Aspell,(blank),1,1,0,20
+3214465,Simon David Walsh,Ceo,0,0,1,0
+3214465,Stephen Eric Dews,Finance Director,1,1,1,28
+3246583,Jong Seog Bae,,1,1,1,11
+3271981,Dan Hopkinson,Company Director,1,1,1,14
+3271981,Gordon Clement Drake,(blank),1,0,0,43
+3271981,Jonathan Robson Purdy,Company Director,1,1,0,27
+3271981,Paul Robert Auckland,Director,1,0,0,8
+3290446,Pendleton Clay Van Doren,Business Executive,1,1,1,6
+3290446,Rochelle Joy Haden,General Counsel,1,1,1,50
+3290446,Rochelle Joy Haden,(blank),1,1,1,50
+3290446,William James Donovan,Accountant,1,1,0,9
+3353936,Alex Nathan Capecelatro,Company Director,1,1,1,20
+3353936,Daryl Friedman,Global President & Ceo,1,1,1,50
+3353936,Jamie Briesemeister,Ceo,1,1,1,33
+3353936,Jamie Briesemeister,(blank),1,1,1,33
+3372935,Mavis Lilian Overy Connell,Director,0,0,0,0
+3372935,Paul Brown,Director,0,0,0,0
+3376509,Mark Stuart Thurston,Chief Finance Officer,1,1,1,16
+3376509,"Mr. Cotterell, John Edward",Company Director,1,1,1,34
+3396854,Alan Mitchell,(blank),1,1,1,15
+3396854,"Dr Hyland, David Michael Charles",Information Technology Consultant,1,1,1,31
+3396854,"Dr Porter, Alexander",Management Consultant,1,1,1,29
+3396854,Matthew James Gibson,Technical Consultant,1,1,0,20
+3396854,Paul Jonathan Allen,Consultant,1,1,1,29
+3416175,Daniel Adams,Director,1,0,0,5
+3446540,Guy Andrew Charles Innes Bridges,Company Director / Business Executive,1,1,1,20
+3446540,Paul Thomas Brady,,0,0,0,0
+3465338,Elizabeth Terese Vega,Director,1,1,1,21
+3468786,James Andrew Reed,Company Director,1,1,1,50
+3468786,Steven Beggs,Finance Director,1,1,1,23
+3477318,Andrew Branski,Cfo,1,1,1,24
+3477318,Justin John Henniker Bedingfeld,Accountant,1,1,1,26
+3477318,Michael Simpson,Healthcare Executive,1,1,1,50
+3482081,Jean Hubert Philippe Gerard Balleidier,None Supplied,1,1,1,39
+3482081,Marc Anthony John Mchardy Overton,Euronorth Managing Director,1,1,1,20
+3482081,Olivier Yvon Bernard Ribet,"Evp Emear, Cross-Industry Initiatives",1,1,1,50
+3536032,Adam John Hetherington,Chartered Surveyor,1,1,1,25
+3536032,Andrew Steven Horn,Chief Financial Officer,1,1,0,34
+3536032,Ciaran Edward Bird,Company Director,1,0,1,16
+3536032,David Simon Mercado,Finance Director,1,1,1,7
+3536032,Elena Gifon,Emea Controller,1,1,0,46
+3536032,Maria Mancini Minetti,Company Director,1,1,1,50
+3541059,Jeremy Richard Summers,Director,0,0,0,0
+3564498,Kerry Jane Mitchell,(blank),1,1,1,7
+3663128,Jonathan William Healy,Director,1,1,1,15
+3663128,Simon Patrick Thomson,Finance Director,1,1,1,20
+3663128,Stephen Robert Whatling,Company Director,1,0,1,20
+3689001,Justin John Brading,Managing Director,1,1,0,10
+3689001,"Mr. Purzer, Jurgen Josef",Cfo,0,0,0,0
+3689001,"Mr. Serrurier, Jospeh Victor Michael",(blank),1,1,1,14
+3689001,Norbet Rotter,Financial Officer,0,0,0,0
+3689001,Philip James Newman,Sales & Marketing Director,1,1,1,25
+3698292,Lianne Michelle Harcup,(blank),0,1,0,0
+3698292,Selene Cahill,Senior Director Finance,1,1,0,12
+3700038,Christopher John Oswald,Director,1,1,1,18
+3700038,Gareth Paul Williams,Director,0,1,1,0
+3700038,Gregory Alexander Cole,Managing Director,1,1,1,24
+3708416,Jonathan David Rose,Consultant,1,1,1,1
+3742757,Edward Jonathan Williams,(blank),1,1,0,4
+3742757,Guy David Ellis,Company Director,1,1,1,18
+3781545,David Roger Evans,Company Chairman,1,0,1,20
+3809903,Gareth Smith,General Manager,1,1,0,32
+3809903,Joann Juskie,Assistant General Counsel,1,1,0,5
+3809903,Paul Ian Roy,Finance Manager,1,1,1,31
+3816299,"Ms. Simmons Smith, Catherine Ann",Chief Administrative Officer,1,1,1,36
+3856670,Stephen Heaton,Technical Engineer,1,0,1,8
+3887962,Catherine Helena Cole,Accountant,1,1,1,34
+3887962,Chloe Barker,Company Director,1,1,0,12
+3910006,David Wells,Managing Director,1,1,1,20
+3910006,Kenneth Stillwell,Director,1,1,1,20
+3916639,Geoffrey Ivor Taylor,Company Director,1,1,1,19
+3916639,Markus Meissner,Ceo,1,1,0,16
+3916639,Matthias Kiess,Ceo,1,1,1,20
+3934283,David John Timmis,Managing Director,1,1,1,50
+3938960,Jessica Robinson,(blank),0,0,0,0
+3938960,Simon Edward Ingram Reed,Director,1,0,0,4
+3938960,Simon James Crowe,Engineer,1,0,0,15
+3945443,Alexander Colin Kynaston Cresswell,Professional Engineer,1,1,1,6
+3945443,Christopher Benoit Waller Shaw,Company Director,1,1,1,17
+3945443,Christopher William Hindle,Company Director,1,1,1,38
+3945443,Suzanne Jayne Stratton,Company Director,1,1,1,16
+3950028,Andrew Morris Blankfield,Solicitor,1,1,1,7
+3950028,Jonathan Nicholas Thompson,Company Director,1,1,1,19
+3950028,Mark Vasey,Senior Manager,1,1,1,35
+3950028,Phillip Graham Layton,"Head Of Applied Research, Distribution",1,1,0,18
+3950028,Richard Lindsay-Davies,Co Director,1,1,0,41
+3950028,Simon Fell,Consultant,1,1,0,20
+3974231,David Thomas Blundell,Managing Director,1,1,1,23
+3974231,Sarah Ruth Blundell,(blank),1,1,1,22
+3990080,"Dr Walker, David Douglas",University Reader,1,1,0,47
+4049461,Paul Joseph Moorby,Director,1,1,1,11
+4049461,Richard Anthony Clements,Director,0,0,0,0
+4058701,Andrew Stevenson,Director,1,1,1,47
+4058701,Anthony John Harris,Director,1,1,1,50
+4058701,David Paul Appleton,,1,1,0,50
+4077975,Cyril Alexandre Malargã‰,Director,0,1,1,0
+4077975,Fernand Pierre Louis Marie Charles Pasquier,Director,0,0,1,0
+4077975,John Joseph Moran,Director Corporate Finance,1,1,1,41
+4077975,John Nairn Macgregor Neilson,Company Director,1,1,0,2
+4077975,Maria Greene,Chief Financial Officer,1,0,0,11
+4077975,Pierre-Yves Commanay,Company Director,1,1,1,22
+4077975,Ruth Walkden,Director,1,1,0,21
+4077975,Ruth Walkden,(blank),1,1,0,21
+4091535,Erin Kathleen Cummins,Business Executive,1,1,0,3
+4091535,Jean-Paul Roger Edward Dowding,(blank),1,1,0,13
+4091535,Peter Johannes Buhrmann,Managing Director,1,1,1,20
+4188279,"Sir Dennis, Ronald",Company Director,1,1,1,15
+4190816,Adam Alexander Crozier,Company Director,1,1,1,36
+4190816,Allison Kirkby,Executive Director,1,1,1,17
+4190816,Linda Ruth Cairnie,Company Director,0,1,1,0
+4190816,Maggie Chan Jones,Company Director,1,1,1,20
+4190816,Matthew David Key,Company Director,1,1,1,50
+4190816,Sabine Chalmers,(blank),1,1,1,12
+4190816,Sara Vivienne Weller,Non-Executive Company Director,1,1,1,19
+4190816,Steven Craig Guggenheimer,Company Director,1,1,1,34
+4217865,Peter Andrew Hilton,Director,1,0,1,2
+4217865,Sarah Ann Hilton,(blank),1,1,1,18
+4235317,Richard Chivers,Director,1,1,1,32
+4235317,Simon James Horan,It Manager,1,1,0,12
+4283506,Adrian Richard Flowerday,Chartered Engineer,1,1,1,20
+4328430,"Dr Parsons, Bernard",Director,1,1,1,23
+4328430,Nicholas Hopkinson,Director,1,1,0,21
+4328430,Nicholas Roger Scott,Director,1,1,1,9
+4328430,Nicholas Scott,(blank),1,1,1,9
+4336501,Alexander Ian Skinner,Computer Analyst,1,1,1,28
+4336501,Alexander Ian Skinner,(blank),1,1,1,28
+4336501,Neil Anthony Rosewarn,Graphic Designer,1,1,0,19
+4341280,Christopher Wareing Walton,Accountant,1,1,1,60
+4341280,Michael Allan Howard,Company Director,0,0,0,0
+4341280,Michael Allan Howard,(blank),0,0,0,0
+4388978,Colin Coles,Technical Director,1,0,0,11
+4388978,Paul O'neill,Production Director,0,1,0,0
+4394772,Christopher John Wilmot,Investment Professional,1,1,1,37
+4394772,James Benjamin Feller,Group Finance Director,1,1,1,34
+4524933,James Ronald Plaskett,Director,0,1,1,0
+4543806,Christine Targett,Project Manager,1,1,0,7
+4543806,Paul Alan Targett,Director,1,1,1,18
+4545442,Amin Khataee,Director,1,0,1,12
+4545442,Gonzalo Alonso Trujillo,Director,1,1,0,14
+4545442,Simon Jacobs,Director,1,1,0,20
+4546820,Nicholas Walrond,Account Manager,1,1,1,40
+4586941,James Stephen Field,(blank),1,1,1,19
+4586941,Neil Anthony Johnson,Company Director,1,1,1,1
+4586941,Stephen John Wadey,Company Director,0,1,1,0
+4586941,Steven Lewis Mogford,Director,1,1,1,1
+4586941,Susan Jane Searle,Company Director,1,1,1,28
+4661445,Stephen Corr,Welding Consultant,0,0,0,0
+4686355,Catherine Elizabeth Cooper,(blank),1,1,0,9
+4686355,Richard John Cooper,Haulage Contractor,1,1,1,14
+4688071,Khurrum Syed Husain,It Manager,0,0,0,0
+4764210,Alan Lavis,Director,1,1,1,7
+4764210,Emyr-Wyn Francis,Finance & Hr Director,1,1,0,32
+4764210,Paul John Thomas,Managing Director,1,1,1,22
+4780554,Celeste Volz Ford,Company Director,1,1,1,38
+4780554,John Ronaldson Stuart,Director Business Development,1,0,0,2
+4799513,Faisal Mahmood,Software Designer,1,1,1,50
+4834114,Andrew Dean Harsant,Accountant,1,1,1,19
+4834114,Stuart Timothy Wilson,Engineer,1,1,1,50
+4863391,Kevin Douglas Hoskins,Managing Director,1,1,1,20
+4863391,Lee Ashley Flaxington,Technical Director,0,1,1,0
+4863391,Lee Ashley Flaxington,(blank),0,1,1,0
+4863391,Simon Keith Jennings,Operations Director,1,0,0,10
+4873279,Aneta Skiba,Chartered Certified Accountant,1,1,0,22
+4873279,Roger James Humm,Chartered Accountant,1,1,1,38
+4924133,Mark Graham Gascoigne,Chief Operating Officer,1,1,1,20
+4968437,Gavin Leigh,Commercial Director,1,1,1,27
+4968437,Lee John Perkins,Chief Executive,1,0,1,45
+4968437,Martin David Franks,Director,1,1,1,20
+5034271,Neill James Robert Hendry,Managing Director,1,1,1,44
+5034271,Samantha Michelle Stirrup,Marketing Manager,1,0,1,11
+5038041,Christopher Scott,Director,1,1,1,25
+5038041,Emily Catherine Rees,Cfo,1,1,1,37
+5038041,Glen Norman Williams,Company Director,1,1,1,6
+5090414,Kern Shin,Business Executive,0,1,0,0
+5152465,Stephen Nicholas Kingan,Director,1,1,1,28
+5152465,Timothy Barkwith Thompson,Commercial Director,0,1,0,0
+5153745,Carolina Cuartero Pelegay,Uk Deputy Managing Director,0,1,0,0
+5153745,Gianluca Landolina,Uk Managing Director,1,1,1,46
+5153745,Simone Battiferri,Coo,1,1,1,50
+5153745,Virginia Virgos Navarro,General Counsel,1,1,0,10
+5156769,Claire Louise Mason,Company Director,1,1,1,59
+5156769,Stephen Hillier,(blank),1,1,1,26
+5177472,Fiona Margaret Glennon,Diretor,1,1,1,22
+5177472,Thomas John Rudkin,Director,1,1,0,20
+5177472,Thomas John Rudkin,(blank),1,1,0,20
+5186026,Andrew Frater Holgate,Chief Executive,1,1,0,11
+5186026,Paul Keith Waterhouse,Chief Financial Officer,1,1,1,13
+5188829,Adrian Keith Taylor,Internet Advertiser,0,0,0,0
+5235793,Karl Hans Wigart,It Consultancy,1,1,0,17
+5235793,Karl Hans Wigart,(blank),1,1,0,17
+5291675,Ryan Russell Warne,Consultant,1,1,1,32
+5291675,Wolfgang Pleyer,Consultant,1,1,0,8
+5318150,Rowan O'donoghue,Ir,1,1,1,30
+5318150,Tomas O'leary,Company Director,1,1,1,18
+5342239,Alan Thomas Graham,Director,0,0,0,0
+5353839,Peter Robert Hoinville,Director,1,0,1,35
+5386273,Duncan Eden Tatton-Brown,Director,0,1,0,0
+5386273,Hannah Laura Coote,(blank),1,1,0,11
+5386273,Katherine Sophie Priestman,Non-Executive Director,1,1,0,3
+5386273,Nicholas Patrick Keher,Cfo,1,1,0,18
+5426030,Neil Bradbury,Company Director,1,1,1,76
+5426030,Peter Schweizer,Ceo,1,0,0,7
+5435540,Sara Louise Dickinson,Company Director,1,1,1,31
+5435540,Susan Charlotte Taylor,Director,0,1,1,0
+5440126,Brian Walter Killman,Company Director,1,1,1,20
+5440126,Bruce Farquhar,Company Director,0,1,0,0
+5440126,Carmelo Truscello,Company Director,1,1,1,50
+5462871,Raghbir Gaddu Chand,Director,1,1,1,8
+5530351,Michael Frank Puddy,Engineer,0,0,0,0
+5582633,Guillaume Patrick Slee,Epm Services Director,1,1,1,18
+5582633,Malcolm James Brock,Sales Manager,1,0,1,29
+5582633,Mark Van Kan,Consultant,1,1,1,23
+5589277,Paul Julian Marciandi,Accountant,1,1,0,12
+5613471,Matthias Stefan Haas,Director,1,1,1,34
+5613471,Thomas Frey,Director,1,1,1,38
+5643894,Martin England,Director,1,1,1,33
+5643894,Stephen James Tuddenham,Company Director,1,1,1,33
+5643894,Toni Jayne Betts,Cfo,1,1,1,23
+5653869,Paul Martin Haitham Taylor,Director,1,1,1,20
+5656968,Andrew David Garvin,Director,1,1,0,24
+5656968,"Dr Singh, Perminder Tony",(blank),1,1,0,49
+5656968,Huw Thomas Owen,Director,1,1,1,50
+5656968,Ian Stuart Perryment,Director,1,1,0,1
+5656968,Robert Peter Silvester,Director,1,0,0,5
+5690539,Mark Francis Burton,Director,0,0,0,0
+5690539,Michael Andrews,Director,1,1,1,20
+5690539,Richard Andrews,Management Accountant,1,1,0,9
+5690539,Richard Andrews,(blank),1,1,0,9
+5733146,Paul Philip Tomlinson,Company Director,1,1,1,63
+5733146,Stephen Robert Ferry,Director,1,1,1,25
+5733146,Tim Darbyshire,Director,1,1,1,54
+5776223,Chris Farthing,Ceo,1,1,1,29
+5782908,Christopher John Lockhart White,Finance Director,1,1,0,16
+5782908,Gavin Murray,Company Director,1,0,1,20
+5795168,Krishna Sudheendra,Ceo Of Ust,1,1,1,8
+5795168,Paras Chandaria,Chairman Of Ust,1,1,1,2
+5795168,Praful Chandaria,Director,1,1,1,2
+5798215,Angela Marie Dixon,Managing Director,1,1,1,27
+5813740,Aart Huibert Besuijen,Director,1,1,1,15
+5813740,Seamus Dunne,Director,1,1,1,15
+5830505,Christopher Eccles,Company Director,1,1,1,45
+5830505,Simon Brett Hall,Company Director,1,1,1,22
+5842638,Katherine Sarah Louise Howarth,Operations Director,0,1,1,0
+5842638,Nicholas Richards,Sales And Marketing,1,1,1,30
+5842638,Peter Murr,Training Director,1,1,1,30
+5861219,Berenice Mary Anderson,Director,0,0,0,0
+5861219,Edward John Alexander Thomson,Company Director,1,1,0,13
+5861219,Tarrant Duncan Anderson,Director,0,1,0,0
+5863964,Andrew Stephen Thomis,Director,0,1,0,0
+5906221,Rhys Brian Hefford,Chief Executive,1,1,1,19
+5912168,Lars Larsen,Director,1,1,1,31
+5945178,Nicholas James Reade,Director,1,1,0,20
+5967399,Andrew Leslie Shaw,Director,1,1,1,27
+5967399,"Dr Styles, Philip Jonathan",Company Director,1,0,0,12
+5968121,Graham Charles Lilley,Director,0,1,0,0
+5968121,Robert James Hooper,(blank),1,1,0,7
+5970177,Bruce Ian Forbes,Prop Developer,1,1,0,10
+6016945,Mark Joseph Keenan,Director,1,1,1,14
+6016945,Simon Carey Fletcher,Director,1,1,0,50
+6055144,Philip James White,Director,1,1,1,35
+6131747,Martin Degaris Rowden,Company Director,1,1,1,11
+6131747,Martin Degaris Rowden,(blank),1,1,1,11
+6131747,Peter Tobias Alpsten,Company Director,1,1,1,38
+6221457,Jonathan Kirkup,Accountant,1,1,1,43
+6221457,Mark Parry,Solicitor,1,1,0,16
+6221457,Mohor Roy,(blank),1,1,0,10
+6221457,Paul Struthers,Managing Director,1,1,1,29
+6223331,Aspasia Dellaporta,Research Consultant,1,1,1,20
+6223331,Benjamin James Marvell,Software Engineer,1,1,1,30
+6249399,Karen Matsushima King,(blank),0,1,0,0
+6249399,Katherine De Klein Brody,Lawyer,1,1,0,16
+6250097,Eric William Robert Mitchell,Company Director,1,0,1,29
+6250097,Eric William Robert Mitchell,(blank),1,0,1,29
+6250097,Jonathan Nicholas Thompson,Ceo,1,1,1,19
+6263821,Maria Dolores Saiz Iglesias,Company Director,1,1,1,23
+6263821,Paul Parsons,Company Director It  Consultant,1,1,1,34
+6294462,Konstantinos Damianakis,Consultant,1,1,1,42
+6386360,James Stewart Uffindell,Director,1,1,1,26
+6434064,Joanne Margaret Hughes,Accounts Manager,1,1,0,20
+6472420,Bjorn Alex Paul Conway,Chief Executive Officer,1,1,1,31
+6472420,Stephen Richard Winters,Chief Financial Officer,1,1,0,2
+6513111,Marc Graham Churchouse,Direct,1,1,1,38
+6517726,Benjamin David White,Managing Director,1,1,1,20
+6517726,Edward Dylan Cox,It Manager,1,1,1,32
+6517726,Matthew Jason Haworth,Consultant,1,1,1,24
+6550550,John William Mcdonald,Plant Manager,1,1,0,16
+6586801,Mark Justin Dale,Concultant,1,1,1,14
+6586801,Wajid Shafiq,Consultant,1,1,1,22
+6648439,Christopher Glenn Schmitt,General Counsel,1,1,0,1
+6648439,Mark David Mcclain,Ceo,1,1,1,26
+6697737,Emily Kate Vernon,Company Director,1,1,1,20
+6697737,Emily Kate Vernon,(blank),1,1,1,20
+6697737,Glynn Roy Carlisle,Director,1,1,1,20
+6726289,John Paul Atherton,Director,1,1,0,5
+6726289,Laura Ann Crossley,Director,1,1,1,12
+6726289,Stuart Alexander Murdoch,Director,1,1,0,3
+6737668,Rory Munday,Director,1,1,1,10
+6820760,Matthew John Gepp,Chief Financial Officer,1,1,0,36
+6832269,Malcolm Derek Cannon,Company Director,1,1,1,38
+6938324,Angel Vina Castineiras,Ceo,1,1,1,5
+6938324,Carmen Patino,(blank),1,1,0,6
+6943638,Gavin Paul Acheson Aiken,Business Consultant,1,1,0,28
+6946606,Denis Pavlovich Kaminskiy,Company Director,1,1,1,43
+6946606,Marc Avi Shaw,Director,0,1,0,0
+6967555,Dmitry Samarin,Director,1,1,1,20
+6993037,John Macdonald Booth,Consultant,1,1,1,50
+6993037,Rachel Anne Booth,Business Consultant,1,1,1,32
+6993037,Rachel Anne Booth,(blank),1,1,1,32
+7003500,Chantelle Breithaupt,Director,1,1,1,38
+7003500,Marc Peter Taxay,Legal Executive,1,1,0,21
+7005288,Daniel John Turner,Ceo,1,1,1,31
+7005288,"Dr Wiseman, Simon Robert",Chief Technology Officer,1,1,1,14
+7005288,James Wallace,Lawyer,1,1,1,20
+7005288,Sean David Berg,General Manager,1,1,1,20
+7078823,Andrew Robert Brown,Director,1,0,1,12
+7078823,David William Lister,Company Director,1,1,1,20
+7078823,Jacqueline De Rojas,Company Director,1,1,1,34
+7078823,Jonathan Mark Heather,(blank),1,1,0,16
+7078823,Michael Gerald Mclaren,Finance Director,1,0,0,29
+7078823,Michelle Denise Senecal De Fonseca,Company Director,1,1,1,22
+7078823,Sheila May Flavell,Director,1,1,1,15
+7098618,"Dr Shouraboura, Nadia",Director,1,1,1,40
+7098618,Emma Elizabeth Lloyd,Director,1,1,0,20
+7098618,Gavin Echlin Patterson,Director,0,1,0,0
+7098618,Julia M Brown,Company Director,1,1,1,50
+7098618,Julie Helen Southern,Director,1,1,1,22
+7098618,Neill Abrams,(blank),1,1,0,12
+7098618,Richard Haythornthwaite,Company Director,1,1,1,5
+7098618,Robert Mcneill Cooper,(blank),0,1,0,0
+7098618,Timothy Steiner,Dircetor,0,0,0,0
+7130618,Ian Brocklehurst,Director,1,1,1,20
+7166540,Glen Williams,Managing Director / Consultant,1,1,1,15
+7166540,Glen Williams,(blank),1,1,1,15
+7178644,"Professor Bromley, Roger John",Director,1,1,1,13
+7203051,Benedict Edwin Stewart,It Consultant,1,1,1,40
+7203051,Max Stewart,Director,1,1,1,20
+7207185,Graham Thomson,Company Director,1,1,1,24
+7277719,"Dr Hayat, Zia",Company Director,1,1,1,33
+7277719,"Mr. Ritchie, Garth William",Director/Partner,0,0,0,0
+7311921,Carolyn Elizabeth Bain,(blank),1,1,0,5
+7311921,"Dr Mitchell, James Christopher",Business Strategist,1,1,1,43
+7311921,Michael Timothy Smith,,1,1,1,50
+7321601,Raj M Dani,Chief Financial Officer,1,1,1,41
+7321601,Shalini Sharma,Chief Legal Officer And Secretary,1,1,0,18
+7416642,Richard Edward Trainor,Ceo,1,1,1,3
+7420777,Jean-Marc Roland Pierre Gardin,Director,1,1,1,22
+7420777,Mark Antony Hewer,Managing Director,1,1,1,18
+7420777,Patrick Albert Thomas Lacey,Accountant,1,1,1,20
+7420777,Patrick Lacey,(blank),1,1,1,22
+7451655,Stephen Samuel Alexander Millar,Solicitor,1,1,1,10
+7452630,Anita Jane Allott,Director,1,1,1,15
+7452630,"Dr Allott, Nicholas Mark",Director,1,1,1,48
+7459589,Ian Carlisle,Managing Director,1,1,0,18
+7533381,Emma Dunlop,Director,0,1,0,0
+7533381,Forbes Mckenzie,Director,1,1,1,20
+7535099,Damian Schogger,,1,1,1,49
+7579109,Kevin Elliott Barton,Ceo,1,1,1,20
+7579109,Stewart Cameron,Director,1,1,1,56
+7594367,Marjorie Anne Karlsen,Director,1,1,1,18
+7594665,Paul Kaye,Consultant,1,1,1,52
+7710092,Graham Andrew Mccusker,Management Consultant,1,1,1,50
+7710092,Lee Anthony Coupland,Management Consultant,1,0,0,4
+7783919,Garry Peter Jones,Director,1,1,1,4
+7783919,Marthinus John Botha,Company Director,1,1,1,19
+7783919,Philip Adrian Bird,Software Engineer,1,1,1,20
+7814100,Boyd Douglas Mulvey,Director,1,1,1,44
+7817315,Andrew Marshall,Director,1,1,0,20
+7855409,Robin Clifford Tucker,Management Consultant,1,1,1,21
+7858061,Michael Rhys Evans,President And Managing Partner,1,0,1,28
+7945978,Juliana Chien-Ying Chen,Business Executive,1,1,1,14
+7966406,Bryn Kenneth Sage,Chief Executive,1,1,1,22
+7973969,Rajal Patni,Accountant,1,1,1,10
+7973969,Rishin Patni,(blank),1,1,1,10
+7973969,Rohit Kumar Patni,Director,1,1,1,10
+7973969,Vivek Kumar Patni,Company Director,1,1,1,26
+7976189,Gregory Allison Clarke,Director,0,0,1,0
+7976189,Peter Raymond Gerard Williamson,Director,1,0,1,23
+7980151,Steve O'callaghan,Director,1,1,1,17
+7980151,William Stephen Ward,Director,1,1,1,45
+7982374,Daniel Edward Madden,"Evp & Chief Financial Officer, Medallia, Inc.",1,1,0,26
+7982374,Hanna Steinbach,Evp & Chief Legal Officer,1,1,1,20
+7985985,Linda Stevens,Company Director,1,1,0,5
+7985985,Linda Stevens,(blank),1,1,0,5
+7994522,Antonio GÃ³mez Jarillo,Director,1,1,1,17
+7994522,Miyuki Ide,Director / Chairman,1,1,1,9
+7994522,Miyuki Ide,Director/Chairman,1,1,1,9
+8024496,Sunil Shah,Consultant,1,1,1,50
+8045123,Adam Jonathan Jacobs,Management Consultant,1,1,1,36
+8045123,Amabel Grant,Chief Executive,1,1,1,20
+8045123,Samuel Richard Peachey,Cfo,1,1,0,17
+8061816,Christopher John Dorn,Company Director,1,1,1,29
+8061816,Diane Marie Mcgregor,Company Director,1,1,0,20
+8113293,Ian Kevin Bell,Chief Executive Officer,1,1,1,50
+8118696,Stuart Colvin Mckean,Director,1,1,1,50
+8144558,Adrian Martin Watson,Chartered Accountant,1,1,1,14
+8144558,Daniel John Edward Schnurr,Chartered Surveyor,1,0,1,3
+8144558,David James Fox,Managing Director,1,1,0,20
+8144558,Paul Jason Fearn,Operations Director,1,0,1,20
+8154069,Simon Andrew Wilkes,"Consultancy, Interim Solutions And Development",1,0,1,20
+8158704,Carolyn Jean Bedford,Accountant,1,1,1,48
+8158704,Paul Thomas Fletcher,Executive Director,1,1,1,15
+8158704,Victoria Burnett,(blank),1,1,0,18
+8227826,"Dr De Rossi, Stefano Marco Maria",Entrepreneur,1,1,1,22
+8227826,Massimo Grava,Director,1,1,0,27
+8235305,Andrew Mark Burns,Director,0,0,1,0
+8249700,Sam Menter,Director,1,1,1,29
+8267893,John Edward Abbott,Director,1,1,1,11
+8267893,Lucy Kathryne Edge,Coo,1,1,1,23
+8268206,Mona King Yuet Chu,Finance Professional,1,0,0,10
+8268206,Simon Malek-Jahanian,Business Executive,1,1,1,20
+8271078,Andrew Campbell Patterson,Operations Director,1,1,1,19
+8271078,Andrew William Hughes Hallett,Director,1,1,1,48
+8271078,Steven Ellis,Company Director,1,1,0,20
+8327063,Matthew Norris,Director,1,1,1,20
+8407866,Benjamin John Howes,Director,1,1,1,20
+8407866,Ciaran Patrick Merrigan,Director,1,1,1,27
+8407866,Moira Fraser Andrews,Director,0,1,1,0
+8468235,Walt Anderson,(blank),1,1,1,49
+8479904,Sreenivasulu Kothapalle,It Consultant,1,1,1,50
+8508188,Richard Timothy Blain,Director,1,1,1,48
+8515908,Douglas Spencer Tropp,Director,1,1,1,23
+8515908,Paul Jonathan Downham,Vp Customer Service,1,0,0,5
+8537138,Andrew Alexander Frangleton,Healthcare Informaticist,1,0,0,14
+8537138,Charles Harp,Ceo,1,1,1,21
+8537781,Daniel Nowok,Regional Sales Director Of Ls Telcom Ag,1,1,0,16
+8537781,Roland Goetz,Coo,1,1,0,31
+8538777,Ambrina Trudgill,Director,1,1,1,44
+8538777,Andrew Perkins,Director,1,1,1,28
+8538777,Paul Michael Greenhead,Director,1,1,0,12
+8538777,Piers Morgan,"Solicitor, Company Director",1,1,0,24
+8562035,Catherine Graham,Chief Financial Officer,1,1,1,15
+8562035,James Sporle,Director,1,1,0,28
+8564481,David Roy Bletso,Cfo,1,1,1,11
+8564481,Susan Bowen,Ceo,1,1,1,19
+8617088,James Richard Gray,Director,1,0,1,28
+8617088,Jeremy Dyce Duckworth,Chief Financial Officer,0,1,0,0
+8617088,Mark Stephen Edmondson,Company Director,1,1,0,19
+8630286,Lisa Christie Rowe,Director,1,1,1,20
+8641679,Angus Robert Flett,Director,1,1,1,20
+8641679,Barbara Lawson Anderson,Director,1,1,1,20
+8641679,Ian Mccaig,Director,0,1,0,0
+8641679,Neil Colin Smith,Director,1,1,1,34
+8645159,Jeffrey Thomas Kowalski,"Svp, Legal",1,0,0,15
+8645159,Kelliann Mccabe,Chief People Officer,1,1,1,16
+8647225,Andrew Christopher Stanniland,Ceo,1,1,1,36
+8647225,Christopher Benoit Waller Shaw,Company Director,1,1,1,17
+8647225,Roberto Minella,Company Director,1,1,1,32
+8647225,Steven George Murray,Company Director,1,1,1,20
+8657895,Daniel Paul Winchester,Self Employed,1,1,0,2
+8657895,Jessica Charlotte Alderson,Founder,1,1,0,19
+8657895,Mary Ann Austin,(blank),1,1,1,16
+8657895,Morgan Cauvin,Corporate Affairs Director,1,1,1,55
+8678112,Ian Stewart Wimbush,Director,1,1,0,10
+8683577,Matthew John Dreaper,Finance Director,1,1,1,22
+8683577,Matthew John Dreaper,(blank),1,1,1,22
+8683577,Michael Lawrence,Company Director,1,1,0,43
+8683577,Robert Paul Spurrett,Engineer,1,1,1,25
+8683577,Sean George Cronin Sutcliffe,Company Director,1,1,0,5
+8686981,Andrew Jones,Operations Manager,1,1,1,11
+8686981,Charles Derek White,Director,1,1,0,21
+8686981,Richard Jarvis,(blank),1,1,0,20
+8761455,Harbinder Uppal,Director,0,1,1,0
+8761455,Nicholas Michael Caplan,Director,1,0,1,20
+8761455,Noel Douglas,Chief Financial Officer,1,1,1,27
+8761455,Paramjit Singh Uppal,Management Consultant,1,1,1,2
+8761455,Philip Victor Jordan,Director,1,0,1,39
+8761455,Stephen Derrick Breach,Director,1,1,0,10
+8778322,Thomas Seifert,Managing Director,0,1,0,0
+8801839,Mireille Elhajj,Business Consultant,1,1,1,17
+8803824,Mark Edward Taylor,Director,1,1,1,18
+8827796,Richard Philip Dickins,Director,1,1,1,21
+8858899,Rene Maria Smit,"Senior Director (Regional Finance, Emea)",1,1,0,13
+8912247,Bradley Mark Petzer,Director,1,1,1,20
+8912247,Robert Andrew Coupland,Director,1,1,1,20
+8923947,Sarah Smith,Hr Director,1,1,1,28
+8923947,Satoru Johan Ogawa,Cfo,1,1,1,36
+8927013,Andrew William John Gueritz,Management Consultant,1,1,1,49
+8927013,"Dr Secher, David Stanley",Company Director,1,1,1,18
+8927013,Robert Stephen Coles,Director,1,1,0,10
+8927013,Stuart Alexander Jubb,Company Director,1,1,1,20
+8927013,Thomas Segun Ilube,Managing Director,1,1,1,35
+8927511,Elizabeth Ashall-Lymn,Director,1,1,1,41
+8927511,Thomas James Lymn,(blank),1,1,1,46
+8927511,Timothy Grahame Andrews,Company Director,1,1,1,32
+8949692,Philip Touzani,Driver,1,1,0,16
+9005530,Michael Anthony Hunter,Director,1,1,1,50
+9072343,"Dr Williams, Paul Anthony",Managing Director,1,1,1,8
+9072343,Gareth Parry,Program Director,0,1,0,0
+9072343,Michael Andrew Jones,Finance Director,0,1,0,0
+9072343,Michael Batty,Company Director,1,1,0,6
+9090308,Debbie Wong Tuck,Chief Financial Officer,1,1,1,31
+9090308,George James Mulhern,Director,1,1,0,36
+9128638,Muhammad Kamran Khan,Business,1,0,1,10
+9168117,Marc Andrew Stewart,Director,1,1,0,20
+9172822,Lee Anthony Allen,Director,1,0,1,17
+9197997,Adam Daniel Watts,Investor Director,1,1,1,21
+9197997,Guy Battle,Management Consultant,1,1,1,40
+9197997,Guy Battle,(blank),1,1,1,40
+9197997,Nathan Goode,,1,1,1,20
+9210981,Faye Callaghan,Company Director,1,1,0,17
+9221862,Justin Simon Mark Basini,Ceo,1,1,1,20
+9223668,James Howells,Director,1,1,0,16
+9228224,Paul Martin Haitham Taylor,Director,1,1,1,20
+9228224,Paul Martin Haitham Taylor,(blank),1,1,1,20
+9228224,Sean Zain Taylor,Managing Director,1,1,0,24
+9232100,Gary Hacker,Lawyer,0,0,0,0
+9232100,Peter Boyd Bailey,Cso,1,1,0,12
+9237813,Darren Guy,Finance Director,1,1,0,16
+9242359,Gavin Jackson,Ceo,1,1,1,26
+9242359,Graham Stephen Budd,Company Director,0,1,0,0
+9242359,James Gralton,Director,1,1,1,5
+9242359,Philip David Avery,Director,0,0,1,0
+9274699,"Dr Liggins, Jason",Company Director,1,1,1,23
+9318672,Yuichi Abe,Director,1,1,0,8
+9322680,David Lindsay Holman,Director,1,0,0,20
+9322680,"Dr Lilly, Andrew Stuart",Director,1,1,1,20
+9335968,Brady Dewayne Mickelsen,Chief Legal Officer,1,1,1,18
+9335968,Marc Andrew Levine,Chief Financial Officer,1,1,0,20
+9335968,Michael David Jurewicz,Vice President,1,1,1,20
+9340538,Michael Sinclair Stephens,Director,1,1,1,20
+9342992,Christian Rouffaert,(blank),1,1,1,33
+9342992,Paul Moore,Company Director,1,1,0,20
+9350139,Adam Peter Taylor,Head Of Engineering,1,1,1,46
+9361674,Evan Harry Jones,Systems/Software Engineering Consultant,1,1,1,20
+9368431,Mark Ivers Robinson,Director,0,1,0,0
+9393081,Daniel Wyld Mcmichael,Chief Executive Officer,1,1,1,46
+9454393,Angus George Harry Tugendhat,Company Director,0,1,1,0
+9454393,Richard John Londesborough,Company Director,1,1,1,12
+9475097,John Ifor Rewbridge Owen,Consultant Engineer,0,0,0,0
+9498819,Adrian Mark Cunningham,Director,1,0,1,12
+9498819,Matthew James Hitchings,Director,1,1,1,18
+9513008,Andrew Scott Rubin,Director,1,1,1,22
+9539313,Stuart Christmas,Consultant,1,1,1,18
+9539313,Victoria Jane Christmas,Director,1,1,1,51
+9592037,Kristene Ann Schumacher,Executive (Tax),1,1,0,20
+9611416,Kieran Blackstone,Director,1,1,0,44
+9629154,Guy Jonathan Newey,Chief Executive Officer,1,1,0,14
+9646049,Mohamed Badirkhan,Director,1,1,1,20
+9646295,Graham Waugh,Founder/Ceo,1,1,1,20
+9704443,Jordi Barrera Ars,Engineer,1,1,1,11
+9704443,Juan Diego Bernal FernãNdez,Managing Director A&G Energy Transition Tech Fund,1,1,1,20
+9704443,"Mr. MegãAs Homar, Aleix",Engineer,1,1,0,20
+9704443,Rafael Jorda Siquier,Aerospace Engineer,1,1,0,11
+9718624,Christopher Robert Hulatt,Fund  Manager,1,1,1,5
+9718624,Greg Sean Jackson,Director,1,1,1,30
+9718624,James Andrew Eddison,,0,0,0,0
+9718624,Jonathan Briskin,Director,1,1,1,17
+9718624,Martin Charles Lawrence,Director,1,1,0,50
+9718624,Simon Andrew Rogerson,Fund Manager,1,1,1,19
+9718624,Stuart Keith Jackson,Director,1,1,1,11
+9755239,David Stefano Zolesi,Business Man,1,1,0,19
+9793790,Christopher James Meah,Digital Entrepreneur,1,1,1,45
+9793790,"Mr. Peachey, William Joseph",Company Director,1,1,1,37
+9820485,Christopher James Mcintosh,Ceo,1,1,1,15
+9820485,David Martin Gilmore,Company Director,1,1,1,35
+9820485,"Dr Robson, David",Company Director,1,1,0,25
+9857705,Andrew Mark Kanter,Lawyer,1,1,1,15
+9857705,Eleanor Lightbody,Ceo,1,1,1,12
+9857705,Harry Borovick,(blank),1,1,1,16
+9864498,Robin Fairfax Wells,Company Director,1,1,1,9
+9864498,Thomas Tredinnick,Co-Founder,1,1,1,28
+9882159,Brian Michael Mullins,Chief Executive,1,1,1,20
+9882159,Lindsay Victoria Chadwick,(blank),1,1,1,20
+9882159,Michael Alan Osborne,Academic,1,1,1,11
+9882159,Oliver Mahony,Investment Manager,1,1,1,31
+9882159,Yuichiro Imaizumi,Manage Insurance,1,1,0,11
+9890421,Michal Trojanowski,Director,1,1,1,24
+9925154,David Alexander Thomson,Insurance Broker,1,0,1,16
+9925154,Gareth David Roberts,Director,1,1,1,20
+9925154,Russell John Gray,Accountant,1,1,0,27
+9925154,Russell John Gray,(blank),1,1,0,27
+9938332,"Dr Taylor, John Matthew",It Consultant,1,1,0,3
+9938332,Stephen Charles Lawson Telfer,It Consultant,1,1,0,40
+9980940,Gregory Livingston,General Counsel,1,1,1,26
+9980940,Hywel Thomas Baker,Technical Director,0,0,0,0
+9981110,Alexander Bloomfield,Director,1,1,1,18
+9981110,Robert Harper,Director,0,0,1,0
+9981110,Suzanne Chetri,(blank),1,1,0,20
+9981110,Victor Laurence Terry,Director,1,1,1,20
+9981110,William Robert Langton,Director,1,1,0,16
+9990019,Philip James Davies,Director,1,1,1,47
+10058406,Daniel Croskell,Director,1,1,1,13
+10058406,Katie Bramley,Director,0,1,0,0
+10071803,Ahti Heinla,Chief Technology Officer,1,1,0,18
+10071803,Mary Adams,Attorney,1,1,0,10
+10086948,Christopher John Bowie,Chief Financial Officer Uk & Ireland,1,1,1,20
+10086948,Rachel Chapman,(blank),1,1,1,31
+10086948,Stephen Sillar Matthews,Chief Financial Officer,1,1,1,20
+10087677,Vani Shri Goswami,Consulting,0,1,0,0
+10110107,Sameer Karimbhai,Solicitor,1,1,0,10
+10132987,Roger Henry Keenan,Electrical Engineer,1,1,1,35
+10150306,Christopher Arthur Warnke,Non-Executive Director,0,1,0,0
+10150306,Keith Harney,Coo,0,0,0,0
+10188498,Robert Gill,Director,1,1,1,43
+10188498,Timothy Simon Palmer,It Consultant,1,1,1,20
+10195084,Dominik Tomicevic,Ceo,1,1,1,23
+10195084,Marko Budiselic,Cto,1,1,1,20
+10220212,Judith Martin-Peregrina,It Consultant,1,1,1,12
+10220212,Laura Alvarez Sanchez- Cabezudo,Aerospace Engineer,1,1,1,42
+10220212,Valentin Eduardo Canales Leppe,Aerospace Engineer,1,1,1,20
+10220212,Victor Montero-Burgos,Quality Engineer,1,1,1,19
+10240034,Lee Hughes,Vehicle Movements,0,0,0,0
+10299571,Giancarlo Ferro,Chief Financial Officer,1,1,1,47
+10299571,Rakesh Bhasin,Private Investor / Ned,0,1,1,0
+10334110,Richard Andrew Penn,Engineer,1,1,0,20
+10367942,Robert Paul Spurrett,Company Director,1,1,1,25
+10367942,Robert Paul Spurrett,(blank),1,1,1,25
+10386472,Adrian John Stanbury,Company Director,1,1,1,35
+10386472,Benjamin Charles Davison,Company Director,1,1,1,50
+10386472,Robert Edward Stanger,Company Director,1,1,1,20
+10393144,Dominik Erik Birgelen,Director,1,1,1,20
+10407959,"Dr Paffett, John",Director,1,1,1,29
+10411419,Alastair Ian Johnson,Creative Director,1,1,1,50
+10411419,Seema Johnson,Company Director,1,0,1,34
+10421161,Navam Gamitha Welihinda,Business Person,1,1,1,16
+10421161,Paul Daniel Warenski,General Counsel,1,1,1,45
+10421161,Reinhard Werner Schwock,Corporate Controller,1,1,1,20
+10436037,"Dr Allum, Stephen Mark",Director,1,1,1,50
+10436037,Robin Andrew King,Non-Executive Director,1,1,1,22
+10475228,Fatih Ozbagriacik,Businessman,1,1,0,15
+10501054,Richard James Edwards,Importer,0,0,0,0
+10504994,Neil Stewart Robins,Chartered Accountant,1,1,1,41
+10513037,Richard Danis,Director,1,1,1,18
+10515288,Heather Ann Planishek,Accountant,1,1,0,32
+10515288,Justin Vincent Laubach,Attorney,1,1,0,14
+10534682,Adam Matthew Nigel Towns,Director,1,1,1,6
+10534682,Florian Douetteau,Director,1,1,0,5
+10535557,Joseph Stephen Muir,Director,1,1,0,19
+10544841,Nicholas Matthew Pointon,Chartered Accountant,1,1,1,21
+10544841,Patrick Willcocks,(blank),1,1,1,20
+10603498,Philip John Watkins,Consultant,1,0,0,6
+10625129,Kevin O'mara,Chauffeur,1,1,1,20
+10651231,David Hugh Clayton,Company Director,1,1,1,9
+10652562,Christopher Carl Horrocks,Director,1,1,1,50
+10652562,Ralitsa Hristova Vasilovska,Business Development,1,1,0,42
+10675314,Peter Eric Hanney,Director,1,1,1,49
+10746274,Daniel Sola,Director,1,1,1,20
+10746274,Owain Pryce-Jones,Company Director,1,1,0,18
+10746274,Sam Aleksander Harman,Investor,1,1,1,12
+10815796,Lucy Gunilla Kennedy,Director And Coo,1,1,1,10
+10815796,Paolo Senes,Director And Cfo,1,1,1,44
+10822909,Finley Gregory,Director,1,1,1,7
+10822909,James Staines,Director,1,1,1,17
+10831970,Adam Jeremy Tom Lovell,Investment Director,1,1,1,8
+10831970,Daniel James Saul,Engineer,1,1,0,20
+10831970,Haydn Brooks,It Consultant,1,1,1,21
+10831970,Heikki Petteri Koponen,Director,1,1,1,20
+10847889,Lee Norman Cottle,Company Director,1,1,1,20
+10847889,"Ms. Dramalioti-Taylor, Maria",Venture Capitalist,1,1,1,20
+10847889,Raunaq Bose,Director,1,1,1,28
+10855156,Johnny Eriksen,Consultant,1,1,1,50
+10855156,Steven Gary Rawsthorn,Company Director,1,1,1,33
+10868316,Sean Allinson-Bulman,Company Director,1,1,1,20
+10885528,Mark Nelson Kidd,Evp & Gm Data Centres,1,1,1,20
+10892759,Abhishek Nakhate,Consultant,1,1,1,11
+10892759,Naresh Pai,Chief Executive,1,1,1,29
+10922328,Emil Eifrem,Ceo,1,1,0,4
+10929484,Mark Shepherd,(blank),1,1,0,8
+10929484,Peter Richard Lipka,Director,0,1,1,0
+10948757,Hemant Kumar Mardia,Director,1,1,1,20
+11000860,Shabbir Shahid,Manager,1,0,0,5
+11000860,Shabbir Shahid,(blank),1,0,0,5
+11010451,Benjamin Geoffrey Jackson,Director,1,1,1,15
+11027760,Thomas Johansen,Chief Finance Officer,1,1,1,18
+11027760,Tine Kosmider Boye,General Counsel,1,1,1,38
+11030486,Andrew Maurice Gordon Bud,Director,1,1,1,32
+11055367,Andrew William King,Coo,1,1,1,20
+11067668,Douglas Howard Johnson-Poensgen,Company Director,1,1,1,20
+11073592,David John Shouesmith,Company Director,1,0,0,41
+11073592,Duncan Laurence Potts,Company Director,1,1,1,7
+11073592,Peter Lionel Raleigh Hewitt,Director,1,1,1,20
+11103622,Daniel Jonathan Snape,Media Events,1,1,1,20
+11103622,Matthew Snape,Operations,1,1,1,12
+11103622,Sean Mclaughlin,Events Manager,1,1,1,20
+11130071,Allan James Brett,Director,0,0,0,0
+11130071,John Scott Pagan,Director,0,1,1,0
+11220649,Nigel Robert Wakefield,Director,1,1,1,7
+11220649,Stephen John Moran,Director,1,1,1,20
+11239657,Graham Edward Chick,Director,1,0,1,16
+11239657,Keith James Goddard,It Professional,1,0,0,15
+11239657,Stephen Macdonald,Accountant,0,0,0,0
+11246293,Ceilia Gresswell,Director,1,1,1,50
+11246293,Mark Tristram Elliott,Director,1,1,1,17
+11266543,Piers Clark Olsen,Director,1,1,1,37
+11297454,Colin Michael Evans,Director,0,1,0,0
+11297454,Justin Day,Director,1,1,1,23
+11297454,Mark Francis,Director,1,1,0,9
+11301994,James Henry Kilpatrick,Consultant,1,1,1,20
+11306005,Carissa Bryce Christensen,Director,0,1,1,0
+11313708,Richard Stuart Wallace,Company Director,1,1,1,8
+11376473,Arun Zutshi,Office Of The Chief Technology Officer,1,1,1,20
+11376473,Oliver James Owens,Consultant,1,1,1,18
+11381539,Alexander Hannibal Czernin Fishlock,Company Director,1,1,1,20
+11381539,Louise Jane Cermak Of Uhrinov,Company Director,1,0,1,20
+11425630,"Mr. Eves, Stuart James",Director,1,0,0,20
+11434241,Jonathan Levin,Director,1,1,1,20
+11448389,Mark Andrew Fowler,Managing Director,1,0,1,19
+11454201,Benjamin Simon Hancy,Director,1,1,1,20
+11454201,Ross Cox,Director,1,1,1,19
+11463620,Stephen Anthony Minister,(blank),1,1,0,5
+11485940,Michel Jean-Louis Chris Poucet,Aerospace Consultant,1,1,1,17
+11497275,Anthony Peter John Claydon,Chartered Engineer,1,1,1,42
+11497275,William Philip Robbins,Engineer,1,1,1,30
+11497275,Yingbo Jiang,Electrical Engineer,1,0,1,50
+11500434,Francis William Oakes,Software Engineer,1,1,1,20
+11554974,Filipe Armando Santos Mendes,Transport Manager,1,1,1,9
+11574511,Benjamin Watson,Director Uk,0,1,0,0
+11574511,Euan Crawford,Director,1,1,1,42
+11622218,Meryl Anne Lambert,Program Manager,1,1,1,14
+11709413,Nadeem El Gabbani,Aerospace Consultant,1,1,1,18
+11715250,Edward Plunkett,Customer Success Account Executive,1,1,1,20
+11715250,Sarah Frances Walker,Director,1,1,1,27
+11722699,Christopher Leslie Gawn,(blank),0,1,0,0
+11722699,Simon Holden,Director,0,1,0,0
+11722699,William Gregory Mesch,Director,1,1,1,2
+11756346,Douglas Gordon Munro,Investment Manager,1,1,1,34
+11756346,Mark Simon Bedford,Consultant,1,1,1,50
+11756346,Matteo Charles Colombo,Financier,1,1,1,14
+11782343,Blair Andrew Lucas,Director,1,1,1,21
+11782343,Blair Andrew Lucas,(blank),1,1,1,20
+11800511,David James Bell,Non Executive Director,0,1,0,0
+11800511,Nicola Cranham,Product Manager,1,1,1,17
+11800511,Nigel Kevin Savory,Non Executive Director,1,1,1,20
+11800511,Paula Elizabeth Sussex,Chief Executive Officer,0,1,0,0
+11800511,Richard Patrick Little,Director,0,1,1,0
+11800511,Robert Anthony Kotlarz,Director,1,1,1,27
+11800511,Simon John Allocca,Director,1,1,1,20
+11803244,Jon Richard Burdekin,Company Director,1,1,1,21
+11825490,Necati Ertugrul,Cyber Security,1,1,1,22
+11846009,Scott James Smith,Recruiter,0,0,0,0
+11852026,Andrew David Williams,Director,1,1,1,10
+11852026,Christopher Hadley Samler,Company Director,1,1,1,5
+11852026,Ian Roy Johnson,Director,1,1,1,21
+11852026,Paul Antonio Joseph Tambeau,Company Director,1,1,1,31
+11853221,Prairie Rachel Padilla,Vp Corporate Controller,1,1,1,6
+11896722,Edward Charles Cole,Businessman,1,1,1,20
+11896722,Marcos Mayorga,Technology Developer,1,1,1,46
+11929739,David Rowen,Chauffeur,1,1,1,5
+11939005,Andre De Witt,Business/ It Executive,1,1,1,4
+11939005,Matthew James Barnard,Business/ It Executive,1,1,1,17
+11939005,Ricardo Daniel Das Neves Pinto,Software Engineer,1,1,1,50
+11944394,Martin Mchugh,Director,1,1,1,30
+11944394,Rebecca Ketura Jacobs,Finance Director,1,1,0,20
+11947165,Naomi Kurahara,Director,1,1,0,4
+11960940,Anupam Das,Chief Executive,1,1,1,20
+11960940,Nilesh Atmaram Patkar,Director,1,1,1,20
+11976726,Jakob Mattias Lindquist,Investment Professional,1,1,1,20
+12006752,Bruce Farquhar,Company Director,0,1,0,0
+12006752,Carmelo Truscello,Company Director,1,1,0,20
+12007941,Stephen Ronald Berry,Director,1,1,1,7
+12008963,Farahnaz Asemi,Company Director,1,1,1,8
+12035857,Carolina Kenny,Director,1,1,1,20
+12035857,Joseph David Kenny,Engineering Consultant,1,1,0,20
+12088530,Joanne Elizabeth Wheeler,Solicitor,1,1,1,18
+12088530,Joanne Elizabeth Wheeler,(blank),1,1,1,18
+12090480,George Carter,Chief Executive Officer,1,1,1,37
+12090480,Phillip James Bates,Chief Technology Officer,1,0,1,36
+12107610,Roisin Mccarthy,Manager,1,1,0,5
+12114633,Ben Bouchere,Electrician,0,0,0,0
+12116434,Guy Meynell,Director,1,1,0,20
+12116434,Peter Nigel Robinson,Director,1,1,1,50
+12125544,Daniel Robert Pickard,Director,1,1,1,5
+12125544,Emilia Davies,Director,1,1,0,13
+12125544,Simon Sloan,Director,1,1,1,49
+12146414,"Dr. Tsui, Hon Lung Keith",Company Director,1,1,1,10
+12152782,Luca Amaduzzi,Director,1,1,0,19
+12183816,Mark Howard Fuller,Strategic Communications Consultant,1,1,1,20
+12185096,Alain David Hawes,Company Director,0,1,1,0
+12199785,Blake Bartlett,Ceo,1,0,1,33
+12199785,Christopher John Light,Chartered Accountant,0,1,0,0
+12204805,Christopher James Blackburn,Company Director,0,1,0,0
+12204805,Helen Patricia Gilder,Company Director,1,1,1,18
+12204805,Joanne Carolyn Lake,Company Director,1,1,1,24
+12204805,Neil Anthony Elton,Finance Director,0,1,1,0
+12204805,Rory Macdonald,Director,1,1,1,27
+12206174,"Dr. Clayson, Thomas Albert",Scientist,1,1,1,20
+12206174,Mark Yasu Stokes,Engineer,1,1,1,19
+12229670,Inge Helander Bolstad,Vp Finance,1,1,1,38
+12229670,Robert Paul Elder,Vice President Of Sales,1,1,1,25
+12233331,James Andrew Joiner,Chief Executive Officer,1,1,1,26
+12257999,Alex Malbon,Director,1,1,1,44
+12257999,Zubair Ahmed,Director,1,1,1,20
+12262876,Simon Franc,Director,1,1,1,15
+12263072,Bernard Lavery,Freight Forwarder,1,0,0,18
+12263072,Oliver William White,Development Manager,1,1,1,20
+12285629,"Prof Walmsley, Ian Alexander",Academic (Provost And Professor Of Physics),1,1,1,1
+12285629,Richard Leefe Douglas Murray,Ceo Of Orca Computing,1,1,1,12
+12285965,Amit Gupta,Director,1,1,1,39
+12289825,Ian Roberts,Chartered Accountant,1,1,1,6
+12289825,Kevin Brian Espinola,Attorney,1,1,0,18
+12302265,Emile John Axelrad,Company Director,1,1,1,16
+12302265,Nigel Gideon Axelrad,Company Director,1,1,1,16
+12316027,Andrew David Heather,Engineer,1,1,0,13
+12316027,Andrew John Dollin,Engineer,1,1,1,25
+12320610,Magdalena Malgorzata Cholewa,Director,1,1,1,20
+12320610,Sean Rintoul,Director,1,1,1,23
+12335663,Ellison Anne Williams,Founder & Ceo,1,1,1,16
+12337390,"Dr Watts, Michael Stephen Arthur",Director,1,1,1,8
+12337390,James Michael Lomas,Director,1,1,0,48
+12348524,Darren Ronald Ransley,Managing Director,1,1,1,50
+12348524,Tomaz Gornik,Director,1,1,1,34
+12361823,Justin Marcus Jenkins,Director ,1,0,1,41
+12377501,Genevieve Leveille,Entrepreneur,1,1,1,57
+12390418,Charles Stacy Muirhead,Technology Entrepreneur,1,1,1,52
+12401677,Francois Rodrigue,Cfo,0,1,0,0
+12401677,Stephane Germain,President & Ceo,0,1,0,0
+12418133,Peter James Osborne,Director,1,1,1,18
+12418133,Robert Charles Rex Gaskell,Director,1,1,1,43
+12432598,Omer Timianker,Director,1,1,1,20
+12480353,"Dr Bailey, Ian David",Chartered Engineer,1,1,1,50
+12489434,Mashooq Badar,Managing Director,1,1,1,20
+12489434,Sandro Nardi Mancuso,Managing Director,1,1,1,20
+12495811,Ruth Frances Brennan,,1,1,1,15
+12508218,Nigel Redwood,,1,1,1,41
+12538909,Christopher Mark Holland,Director,1,1,1,16
+12572147,Anthony David Peake,Chief Executive,1,1,1,50
+12575729,James Roderick Clark,Manager,0,0,0,0
+12579596,Janet Edith Nkabidwa Collyer,Chair Person,0,1,1,0
+12579596,Marko Wolodymyr Von Der Leyen,Director,1,1,0,2
+12586186,"Dr Clark, Stephen",Company Director,1,1,1,35
+12586186,Michael Peter Hall,Software Engineer,1,1,0,8
+12586186,Richard Higgs,Company Director,1,1,1,26
+12586186,Thomas Alexander Hearn,Company Director,1,1,1,6
+12606286,Polly O'meara,Managing Director,0,0,0,0
+12606286,Polly O'meara,(blank),0,0,0,0
+12606286,Sean Michael O'meara,Technical Director,1,1,0,20
+12684031,Cindy Van Niekerk,Ceo,1,1,1,20
+12714016,Christopher Mark Clinton,Director,1,1,1,25
+12726004,Daniel Richard Terrett,Chief Operating Officer,1,1,1,20
+12795055,Stewart Harvey Dresner,Company Director,1,1,0,14
+12801206,Jonathan Andrew Chang,(blank),1,1,0,21
+12801206,Rodrigo Shih-Hsin Liang,Chief Executive Officer,1,1,1,19
+12818706,Gareth Mark Walrond,Managing Partner,1,1,0,45
+12818706,Glen Gary Tapper,Managing Partner,1,1,1,28
+12818706,James Alan Blackman,Managing Partner,1,1,1,23
+12819043,"Dr Maroothynaden, Jason",Uk Director / Business Developer,1,1,1,49
+12819043,Francois-Xavier Laffont,Managing Director,1,1,1,26
+12825578,Antony Philip Cockle,Director,1,1,1,50
+12851975,Steven Zwinkels,Director,1,1,1,20
+12949615,Chris Hornung,Company Director,1,1,1,15
+12976318,Barry Peter Milchem,Non-Exec Director,1,0,1,50
+12976318,Richard Charles Keyse,Chief Executive,1,1,1,42
+12976318,Shayne Gould,Director,1,1,1,6
+12976318,Stephen James Blundell,Director,1,1,0,7
+12978875,Matthew John Dowling,Managing Director,0,0,0,0
+13007933,Adrian Nicholas Cooke,Director,0,1,0,0
+13007933,Gita Bapodra,Director,1,1,0,22
+13007933,Jonathan Yarr,Executive Director,1,0,0,14
+13007933,Timothy Roy Ryall,Director,1,1,1,20
+13033810,Alexander Kehoe,Director,1,1,1,50
+13070754,Graeme Duncan Robert Payne,Director,1,0,0,10
+13070956,Anthony David Levy,Director,1,1,1,20
+13070956,Soren Kirkegaard Sorensen,Ceo,1,1,1,20
+13152981,"Dr Dare, Hayley",Consultant Clinical Psychologist,1,1,1,20
+13152981,Gavin Wayne Richardson,Director,1,1,1,4
+13157734,Alexander James Elbourne,Taxi Driver,1,1,1,5
+13157734,Ryan Thomas Elbourne,Taxi Driver,1,1,1,7
+13184807,Adrian Peter Blair,Chief Executive Officer,1,1,0,17
+13184807,Angela Charlotte Seymour-Jackson,Company Director,1,0,0,20
+13184807,Anne Margaret Mcsherry,(blank),1,1,0,3
+13184807,Claire Suzanne Davenport,Company Director,1,1,0,15
+13184807,Hanno Damm,Chief Financial Officer,1,1,1,43
+13184807,Joseph Kindall Hurd Iii,Company Director,1,1,1,50
+13184807,Peter Holten Mãœhlmann,Company Director,1,1,0,16
+13184807,Rachel Elizabeth Kentleton,Company Director,1,1,1,17
+13219564,Malcolm John Travers,Company Director,1,1,1,31
+13219564,Nicholas Alexander Campbell,Managing Director,1,1,1,7
+13234998,Chimezie Emewulu,Company Director,1,1,1,16
+13303096,David John Pearson,Chief Operating Officer Kyndryl Uki,1,1,1,19
+13303096,Douglas Claude Digiorno Jr,Finance Director,1,1,0,20
+13303096,Jonathan Mark Ingram,Managing Partner,1,1,1,16
+13303096,Martin William Graves,(blank),1,1,0,5
+13303096,Sharon Treanor,Human Resources Director,1,1,1,20
+13305101,Danielle Thompson,Director,1,1,1,10
+13310119,Mandip Singh Bharj,Director,1,1,1,17
+13355066,Kannan Swamy,Company Director,1,1,1,50
+13355066,Mark Adam Longhurst,Company Director,1,1,1,46
+13355066,Shaun Prescott,Company Director,1,1,0,34
+13373950,Christopher Martin Sharkey,Director,1,1,1,50
+13373950,Simon James Lewis,Director,1,0,1,36
+13387340,Richard Mark Jordan,Driving Instructor,1,1,0,18
+13397478,Sylvia Kwok,Company Director,1,1,1,26
+13406761,Matthew Farmer,Director,1,1,1,28
+13406761,Matthew Farmer,(blank),1,1,1,28
+13406761,Michael David Chalmers,Chief Executive Officer,1,1,1,31
+13406761,Sebastian Pendarves Bulpin,Company Director,0,1,1,0
+13409409,Adam Michael Casey,Director,1,1,1,49
+13409409,Nathan John Tittensor,Director,1,1,1,33
+13415138,Sarah Jane Dixon,Director,1,1,0,15
+13440981,Rahul Dev Tyagi,Company Director,1,1,0,15
+13452368,Mark Jeffrey Lowe,Director,1,1,0,5
+13522085,Benjamin Eduardo Pollock Mas,Company Director,1,1,1,12
+13522085,Vincent Pollock Mas,Company Director,1,1,1,20
+13539118,John Mcloughlin,Managing Director,1,1,1,20
+13539118,Keith Francis Mullan,Director,1,0,0,14
+13575875,Owen Orr Denby,General Counsel,1,1,0,4
+13580377,Daniel Belcher,Company Director,1,1,1,20
+13601174,Jeremy David Cross,Director,1,1,1,16
+13601174,Robert Buckland,Director,1,1,1,45
+13601174,Toddington Warwick Harper,Director,1,1,1,50
+13602589,Ben Thomas Harper,Electrical Engineer,1,1,0,19
+13602589,Godfrey Jonathan Gaston,Retired Operations Director And Founder,1,1,0,20
+13602589,Melissa Rebecca Chambers,Electrical Engineer,1,1,1,44
+13602589,Nicholas John Kingsbury,Company Director,1,1,0,25
+13609125,John Bolton Craig,Accountant,1,1,1,20
+13610618,Ashley Elizabeth Mcgrane,Attorney,1,1,0,8
+13610618,Ashley Elizabeth Mcgrane,(blank),1,1,0,8
+13622997,Allan William Fairley,Director,1,1,1,20
+13661010,Christopher Francis Weston,Director,1,1,1,28
+13661010,Julian James Storr,Director,1,1,0,13
+13668201,Raphael Jacob Tehranian,Director,1,1,1,19
+13668201,Richard Aaron Libbey,Director,0,1,0,0
+13708842,Philip Joseph Maguire,Company Director,1,1,1,18
+13708842,Terry Dunne,Company Director,1,1,1,13
+13743906,Ian Duncan Stobie,Company Director,1,1,1,20
+13743906,Richard Martin Turner,Company Director,1,1,0,18
+13787334,Christian Oliver,Company Director,1,1,1,14
+13787334,Matthew Daniel Stagg,Company Director,1,1,0,21
+13787334,Scott Stainton,Company Director,1,1,1,29
+13801919,Mihai Firtala,Director,1,1,1,12
+13813981,Parth Balvantrai Desai,Managing Director,1,1,1,16
+13877463,Daniel Faber,Chief Executive Officer & Co-Founder,1,1,1,50
+13877463,Jacob Michael Geer,Managing Director,1,1,1,6
+13877463,Mansoor Jabir Shar,Managing Director,1,1,1,27
+13907128,Ophelia Wendy Elizabeth Brown,"Vc Investor, Founder And Managing Partner At Bloss",1,1,1,10
+13907128,Rajvinder Kaur Khaira,Director,1,1,1,11
+13907128,Sean Thomas Williams,Director,1,1,1,14
+13913625,Daniel Christopher Beechey,Director,1,1,0,5
+13913625,Matthew Owen Wills,Director,1,1,1,26
+13926037,Sonia Christina Mendes Fernandes Pereira,Director,0,0,0,0
+13942096,Joseph Samuel Waller,Director,1,1,1,20
+13942096,Michael Kristian Odling-Smee,Director,1,1,1,20
+13966972,Kenneth Mark Turley,Managing Director,1,1,1,37
+13966972,Yoram Aldo Aron,Managing Director,1,1,1,5
+13978665,Nicholas James Frall,Director,1,1,1,19
+13978665,Roland Arthur Sheppard Lyle,Director,1,1,1,19
+14005345,Thomas Anthony Somers,Director,1,1,1,50
+14005345,Topi Johannes Tiihonen,Director,1,1,1,23
+14005353,Esteban Castano,Ceo,0,1,1,0
+14005353,Rahul Raina,Cto,1,1,1,17
+14006392,Nicola Grant,Receptionist,0,0,0,0
+14023744,"Dr Rocchetto, Marco",Chief Executive,1,1,1,20
+14023744,Marcel Adam Debczynski,Director,1,1,1,35
+14051013,Kerry Johnson,Director,0,0,0,0
+14051013,Martin Robert Watts,Director,1,1,1,20
+14085487,Gregory Gerot,Director,1,1,0,20
+14085487,Nicola Jane Hayes,Non-Executive Director,1,1,1,20
+14106498,Christian Axelsson,Engineer,1,1,1,35
+14147440,Nathan Giles Runnicles,"Cfo, Qa Group",1,1,0,11
+14147440,Nathan Giles Runnicles,(blank),1,1,0,11
+14231961,"Dr Alfardus, Huda",Director,1,1,1,39
+14245763,David Alan Smith,Company Director,1,1,1,17
+14245763,Guillaume Bertrand Tissot,Company Director,1,1,0,1
+14245763,Moya Jane Hayhurst,(blank),1,1,1,22
+14245763,Roland Jean Andre Moquet,,1,1,1,18
+14272824,Gareth Edward Lee,Director,1,1,1,11
+14330063,Maarten Wegdam,Ceo,1,1,1,20
+14330063,Wilhelmus Peter Mathieu Janssen,Cmo,1,1,1,20
+14349251,Hannah Mocroft,Managing Director,1,0,1,17
+14366711,Robert Bundsag,Director,1,0,1,12
+14366711,Sandor Bundsag,Director,1,0,0,5
+14374044,Andre Krull,Coo,1,1,1,14
+14374044,Jonathan Matthew Cheal,Sales Director,1,0,1,44
+14374044,Neringa Narbutiene,Cfo,1,1,0,11
+14404427,George Bieberbach Jr,Director,1,1,0,35
+14404427,Ian Howard Griffiths,Director,1,1,1,20
+14404427,Jonathan Hurst,Director,1,1,0,20
+14404427,Paul E. Bieringer,Director,1,1,0,9
+14407841,Christopher Emil Spillman,Attorney,1,1,1,50
+14434878,Ivan Pylypchuk,Company Director,1,1,1,42
+14434878,Petro Melnyk,Company Director,1,1,1,5
+14452968,James Clifford Clements,Transport Manager,0,0,0,0
+14478881,Andrew Peter Fletcher,Accountant,1,1,1,30
+14490879,Antonio Gilbert Gomes,Business Executive,1,1,1,1
+14490879,Antonio Gilbert Gomes,(blank),1,1,1,1
+14490879,Brian Lee Shytle,Treasurer,0,0,0,0
+14532760,Ravi Teja Bommireddipalli,Sevice,1,1,1,29
+14595484,Gary Edward Barnes,Director,1,1,1,36
+14595484,Kelly Steven Waters,Director,1,0,0,32
+14595484,Martin John Wassell,Non-Executive Director,1,1,1,38
+14595484,Zane Gambasin,Director,1,1,1,32
+14619117,Iryna Mahalias,Director,1,1,1,20
+14624888,Laurence Edward Reynolds,Managing Director,1,0,0,20
+14658519,Edward Charles Blum,Film Producer,1,1,1,47
+14708427,Ashwini Kumar Rath,Director And Ceo,1,1,1,20
+14718482,Adam Alan Frost,Director,0,0,0,0
+14718482,Connie Marie Frost,(blank),1,1,1,11
+14742564,Nathan David Rundle,Ceo,1,1,1,20
+14743943,Craig Anthony Tattersall,Van Driver,1,1,1,20
+14747217,Petrus Willibrordus Hermeling,Company Director,1,1,1,20
+14763822,Markus Pflitsch,Diploma Physicist,1,1,1,39
+14763822,Vishal Shete,Executive,1,1,1,19
+14800399,Christine Mcgarry,Chief Operating Officer,1,1,1,20
+14800399,Enrique Oti,Chief Technology Officer,1,1,1,15
+14800399,Tyler Sweatt,Chief Revenue Officer,1,1,1,20
+14850412,Micheal Sean Halloran,Director,0,0,1,0
+14981224,John Lott,Director,0,1,0,0
+14981224,John Sinclair,Chief Executive Officer,0,1,1,0
+15003850,Igal Hakan Mitrani,Consultant,0,1,0,0
+15003850,Onur Erdogan,Engineer,0,1,1,0
+15022615,Andrew James Lewis,Software Developer,0,1,1,0
+15058561,Benjamin Elliot Norton,Director,0,1,0,0
+15058561,Thomas Asutin Shaw,Director,0,1,0,0
+15059715,Callum Patrick Walsh,Director,0,1,1,0
+15074361,Soumyajit Chakraborty,Services,0,1,1,0
+15076659,Susanne Rothwell,Marketing Director,0,0,1,0
+15170044,Keshav Sankla,Director,0,1,1,0
+15170044,Kishore Kumar Sankla,Chief Executive Officer,0,1,1,0
+15170044,Kush Sankla,Director,0,1,1,0
+15170044,Leena Sankla,Director,0,1,1,0
+15188046,John Kevin Spencer,Company Director,0,0,0,0
+15248560,Carol Ann Shanahan,Company Director,0,1,1,0
+15248560,Richard Mark Wood,Chief Executive Officer,0,1,1,0
+15251284,Angelo Dalli,Chief Scientific Officer,0,1,1,0
+15251284,Kenneth Peter Cassar,Ceo,0,0,1,0
+15251284,Mauro Pirrone,Chief Software Architect,0,1,1,0
+15251284,Olga Maximovna Finkel,Lawyer,0,1,1,0
+15287180,Hristo Hristov Popov,Chief Business Development Officer,0,1,1,0
+15344720,"Mr. Atri, Tushar",Director,0,1,1,0
+15344720,Ritwik Chawla,Lawyer,0,1,1,0
+15366570,Benjamin Paul Taylor,Company Director,0,1,0,0
+15366570,James Andrew Duez,Director,0,1,1,0
+15412475,Gavin Desmond Mcewan,Accountant,0,1,1,0
+15412475,Mark Steven Thomas,Company Director,0,1,1,0
+15412475,Teifion Mark Hill,(blank),0,1,1,0
+15452825,Andrew William King,Company Director,0,1,1,0
+15452825,William Nicholas Earl,Director,0,1,0,0
+15497037,Alexander Geoffrey Warburton,Company Director,0,1,0,0
+15497037,Christopher David Williams,Company Director,0,1,1,0
+15497037,Marc Fred Warburton,Company Director,0,1,1,0
+15544543,"Ms. Marroquin, Aimee R.",Vp - Global Tax,0,1,0,0
+15614697,Andrew John Hilton,Managing Director,0,0,0,0
+15635697,John Jeffrey Marsh,Project Manager,0,1,1,0
+15635697,Martin John Allsop,Management Consultant,0,1,0,0
+15805704,Linda Watson,Director,0,1,1,0
+FC029175,Jacob Daniel Bernstein,(blank),0,1,1,0
+FC033686,Kyle David Whitehill,Chief Executive,0,1,1,0
+FC033686,Marios Fotiou,Director,0,1,1,0
+FC033686,Robert Plews,Accountant,0,1,1,0
+FC034430,Andrew James Waitman,,0,1,1,0
+FC034430,Jonathan Hughes,Director Of Sales,0,0,1,0
+FC034430,Matthew Whitteker,Vp Marketing,0,1,1,0
+FC034430,Russell Frederick,(blank),0,1,1,0
+FC037255,Carolina Klint,Ceo Marsh North West Region,0,1,1,0
+FC037255,Francois Thomas,Cfo Marsh Belgium & Luxembourg,0,1,1,0
+NI050867,"Mr. Chin, Kyle Michael","Gvp, General Counsel And Corporate Secretary",0,1,1,0
+NI634844,Thomas Mallon,Principal Engineer,0,1,0,0
+NI642876,Giancarlo Di Vece Casir,Executive,0,1,1,0
+NI642876,Ignacio Adolfo Miranda Ceballos,(blank),0,1,1,0
+NI650507,Christopher Adam Nixon,Company Director,0,0,0,0
+NI658717,Eva-Daniela Menzky,(blank),0,1,1,0
+NI658717,Koenraad Andre Gijsbers,Company Director,0,1,1,0
+NI658717,Stephen Ronald Berry,Director,0,1,1,0
+NI658717,Yuri Andersson,Engineer,0,1,1,0
+NI672234,Neasa Mccann,Director,0,1,1,0
+NI672234,Scott Mccann,Managing Director,0,1,1,0
+OC308658,Alice Louise Gardner,(blank),0,1,1,0
+OC308658,Andrew Bell,(blank),0,1,1,0
+OC308658,Andrew David Lyon,(blank),0,1,0,0
+OC308658,Caroline Tod Ramsay,(blank),0,1,1,0
+OC308658,Charles Perran Jervis,(blank),0,1,0,0
+OC308658,Christopher Robert Owen,(blank),0,1,1,0
+OC308658,David Peter Pester,(blank),0,0,1,0
+OC308658,Edward James Cotton,(blank),0,0,1,0
+OC308658,Gareth Ian Oldale,(blank),0,1,1,0
+OC308658,Gary James Roscoe,(blank),0,1,0,0
+OC308658,James Alexander Forsyth,(blank),0,1,0,0
+OC308658,James Chadwick,(blank),0,1,1,0
+OC308658,Jonathan William Stewart,(blank),1,1,0,13
+OC308658,Julia Lucas,(blank),0,0,0,0
+OC308658,Julian David Mant,(blank),0,1,1,0
+OC311850,Andrew Wyndham Armar Cameron,(blank),1,1,1,14
+OC311850,Bartholomew Guy Peerless,(blank),1,0,1,5
+OC311850,David Anthony Collins,(blank),1,1,1,16
+OC311850,David Richard Howell Coates,(blank),1,1,0,11
+OC311850,Edward David Crichton Craig,(blank),1,0,1,30
+OC311850,Emma Louise Carter,(blank),1,0,1,14
+OC311850,Fiona Kirstie Edmond,(blank),1,1,1,5
+OC311850,James William Carter,(blank),0,0,0,0
+OC311850,Jamie Cartwright,(blank),1,1,1,7
+OC311850,Jane Mary Bagnall,(blank),1,0,1,16
+OC311850,Julia Louise Cox,(blank),1,1,1,17
+OC311850,Nicholas Dennis Burt,(blank),1,1,1,10
+OC311850,Oliver James Auld,(blank),1,1,1,7
+OC311850,Paul Malcolm Arathoon,(blank),1,1,1,14
+OC311850,Sarah Jane Boon,(blank),0,0,0,0
+OC311850,Sarah Therese Anticoni,(blank),1,1,1,17
+OC311850,Shona Victoria Rosslyn Alexander,(blank),1,1,0,20
+OC311850,Simon Ridpath,(blank),1,1,1,20
+OC317852,Benjamin James Vaughan Daniels,(blank),1,1,1,17
+OC317852,Charles Bending,(blank),1,1,1,18
+OC317852,Charlotte Ann Burnett,(blank),1,0,1,16
+OC317852,Clarissa Leah Coleman,(blank),1,1,1,22
+OC317852,David Egerton Pollitt,(blank),1,1,1,14
+OC317852,David Laurence Bear,(blank),1,0,0,2
+OC317852,Guido Foglia,(blank),1,1,1,43
+OC317852,Gustavo Aljeandro Blanco Ruano,(blank),0,1,1,0
+OC317852,Hamza Nabi Drabu,(blank),1,1,1,12
+OC317852,Hans Victor Edward Frederick Allnutt,(blank),1,1,1,21
+OC317852,John Marcus Campbell,(blank),0,1,1,0
+OC317852,Jonathan Brogden,(blank),1,1,1,12
+OC317852,Jonathan Charles Deverill,(blank),1,1,1,20
+OC317852,Jose Maria Alvarez-Cienfuegos Fernandez,(blank),0,0,0,0
+OC317852,Katherine Elizabeth Farmer,(blank),1,0,1,15
+OC317852,Katherine Jane Calder,(blank),1,1,1,16
+OC317852,Lisa Broderick,(blank),1,1,0,20
+OC317852,Louise Michelle Bloomfield,(blank),1,1,1,27
+OC317852,Matthew Edward Darling,(blank),1,1,1,6
+OC317852,"Mr. Allison, William Henry",(blank),1,1,0,6
+OC317852,Nathan James Butcher,(blank),1,1,0,12
+OC317852,Nicholas Garland,(blank),1,1,0,2
+OC317852,Patrick Allan Hill,(blank),1,1,1,4
+OC317852,Paul Anthony Davison,(blank),1,1,0,20
+OC317852,Thomas Cooper Baker,(blank),0,1,1,0
+OC317852,Udara Chintana Ranasinghe,(blank),1,1,0,11
+OC325522,Augustus Barnabas Della-Porta,(blank),1,1,1,13
+OC325522,Chetal Nirav Patel,(blank),1,1,1,7
+OC325522,Eleonor Alice Mary Duhs,(blank),1,1,0,6
+OC325522,Erica Midorikawa Crump,(blank),1,1,1,15
+OC325522,Hannah Janet Lyons,(blank),1,1,0,5
+OC325522,James Timothy Huard,(blank),1,1,1,52
+OC325522,Karli Marie Hiscock,(blank),1,1,1,15
+OC325522,Laura Margaret Soley,(blank),0,1,0,0
+OC325522,Lawrence David Simanowitz,(blank),1,1,1,9
+OC325522,Leticia Helen Jennings,(blank),1,1,1,1
+OC325522,Louise Mary Elizabeth Harman,(blank),1,1,0,10
+OC325522,Lucy Mclynn,(blank),1,1,0,16
+OC325522,Lucy Rhodes,(blank),1,1,1,17
+OC325522,Malcolm John Headley,(blank),1,1,1,12
+OC325522,Mark Traynor,(blank),1,1,0,12
+OC325522,Matthew James Smith,(blank),1,1,0,14
+OC325522,Nirav Patel,(blank),1,1,1,9
+OC325522,Oliver William Hunt,(blank),1,1,1,10
+OC325522,Paul Philip Seath,(blank),1,1,1,40
+OC325522,Rupert Langton Earle,(blank),0,1,0,0
+OC325522,Stephanie Clare Biden,(blank),1,1,0,18
+OC325522,Sung-Hyui Park,(blank),1,1,0,15
+OC325522,Thea Justine Longley,(blank),1,1,1,17
+OC325522,Timothy Charles Barnden,(blank),0,1,1,0
+OC326345,Aedamar Ita Comiskey,(blank),0,1,1,0
+OC326345,Alexandra Flora Beidas,(blank),1,1,1,2
+OC326345,Andrea Arosio,(blank),1,1,1,6
+OC326345,Andrew Bruce,(blank),1,1,1,10
+OC326345,Caroline Borgers,(blank),1,1,1,6
+OC326345,Christa Jane Band,(blank),0,1,0,0
+OC326345,Clare Ellen Baker,(blank),1,1,1,8
+OC326345,Mehdi Boumedine,(blank),1,1,1,19
+OC326345,"Mr. Carbonare, Marco",(blank),1,1,0,8
+OC326345,Yaroslav Alekseyev,(blank),1,1,1,5
+OC336962,Adam David Orr,(blank),1,1,1,5
+OC336962,Alexander Michael Dixon,(blank),0,0,0,0
+OC336962,Alice Childs,(blank),1,1,0,1
+OC336962,Andrew Joseph Gillen,(blank),1,1,1,18
+OC336962,Emily Clark,(blank),0,1,1,0
+OC336962,Heather Claire Gagen,(blank),1,1,0,3
+OC336962,Jan-Jaap Baer,(blank),1,1,1,2
+OC336962,John Patrick Buttanshaw,(blank),0,1,1,0
+OC336962,Jonathan Alexander Gilmour,(blank),1,1,1,11
+OC336962,Niamh Aine Hamlyn,(blank),0,1,1,0
+OC336962,Philip Alexander Bartram,(blank),1,1,1,10
+OC336962,Richard Christopher Brown,(blank),1,1,0,4
+OC336962,Robert Alexander Fell,(blank),1,1,1,1
+OC336962,Samuel James Martin Brewer,(blank),1,1,0,9
+OC336962,Sian Claire Keall,(blank),1,1,0,20
+OC338062,Pierre Popesco,(blank),1,1,1,37
+OC374987,Aleksandr James Bosch,(blank),1,1,1,16
+OC374987,Alexandra Elizabeth Bishop,(blank),1,1,1,22
+OC374987,Andrew Bowden Brown,(blank),1,1,1,47
+OC374987,Andrew Edwin Pattinson,(blank),1,1,0,16
+OC374987,Andrew John Brennan,(blank),1,1,1,16
+OC374987,Anthony Crispin Bridges Webb,(blank),0,0,1,0
+OC374987,Charles William Arrand,(blank),1,1,1,37
+OC374987,Craig Simon Armstrong,(blank),1,1,1,11
+OC374987,Daren Peter Allen,(blank),1,1,1,24
+OC399969,Adam Bradley,(blank),1,1,1,22
+OC399969,Adriano Vito Amorese,(blank),1,1,1,5
+OC399969,Benjamin Paul Brandon,(blank),1,1,1,5
+OC399969,Charalambos Georgiou,(blank),0,0,0,0
+OC399969,Christopher Stephen Ahearne,(blank),1,1,1,9
+OC403037,James Ashley Bruegger,(blank),1,1,1,27
+OC403037,Mark Thomas Boggett,(blank),1,0,1,5
+OC403037,Sarah Anne Shackleton,(blank),1,1,0,7
+OC413013,Alastair John Mackinnon Morrison,(blank),1,1,1,10
+OC413013,Andrew Mark Masraf,(blank),1,1,0,10
+OC413013,David Gerard Heffron,(blank),1,0,1,14
+OC413013,Mohammad Hammad Akhtar,(blank),1,1,0,16
+OC413013,Thomas Ross Leman,(blank),1,1,1,17
+OC428206,Adrian Bettridge,(blank),1,1,1,6
+OC438394,Sian Rodway,(blank),1,1,0,16
+OC438394,Thomas Robert Grogan,(blank),1,1,1,23
+SC348472,Brendan Bernard Turley,Attorney,1,1,1,10
+SC407753,Kenneth Naismith,Director,1,1,1,29
+SC407753,Peter David Mendham,Design Engineer,1,1,1,21
+SC413479,Paul Gillespie,Chief Executive,1,1,0,22
+SC413479,Richard Ludbrook,Accountant,1,1,1,30
+SC426248,Campbell Macleod Grant,Director,1,1,1,49
+SC451730,Lucy Maxwell,(blank),1,1,1,20
+SC477423,Benjamin William Lewis Ames,Company Director,1,1,1,22
+SC538756,Anthony Paul Brennan,Company Director,1,1,1,39
+SC538756,Ian Mcleod Stevenson,Ceo,1,1,1,40
+SC640997,Daniel Hendry Smith,Founder,1,1,1,22
+SC640997,Daria Filichkina,Director,0,1,0,0
+SC652563,Craig Morrison Turpie,Director,1,1,1,4
+SC652563,Paul Vincent Mcginness,Director,1,1,0,15
+SC655454,Benjamin William Lewis Ames,Company Director,1,1,0,37
+OC336962,Charles Francis Bischoff,(blank),1,0,1,9
+OC336962,Daniel James Gerring,(blank),1,1,1,17

@@ -1,0 +1,328 @@
+{
+  "models": {
+    "model1_tmt_only": {
+      "description": "Baseline: Firm_AI ~ TMT_AI_share",
+      "pseudo_r2": 0.0787,
+      "aic": 265.5,
+      "bic": 272.2,
+      "n": 209,
+      "coefficients": {
+        "const": {
+          "coef": -0.8031,
+          "se": 0.1788,
+          "z": -4.491,
+          "p": 7e-06
+        },
+        "TMT_AI_share": {
+          "coef": 1.8153,
+          "se": 0.4059,
+          "z": 4.472,
+          "p": 8e-06
+        }
+      }
+    },
+    "model2_full": {
+      "description": "Full: Firm_AI ~ TMT + ComplexAI + AI_Share + Region + Cogn + Geo",
+      "pseudo_r2": 0.2624,
+      "aic": 223.4,
+      "bic": 246.8,
+      "n": 209,
+      "coefficients": {
+        "const": {
+          "coef": -7.5833,
+          "se": 1.4093,
+          "z": -5.381,
+          "p": 0.0
+        },
+        "TMT_AI_share": {
+          "coef": 2.8017,
+          "se": 0.5746,
+          "z": 4.876,
+          "p": 1e-06
+        },
+        "ComplexAI": {
+          "coef": 0.5912,
+          "se": 0.4929,
+          "z": 1.199,
+          "p": 0.23038
+        },
+        "AI_Share": {
+          "coef": 1.7054,
+          "se": 0.5053,
+          "z": 3.375,
+          "p": 0.000739
+        },
+        "Region": {
+          "coef": 3.333,
+          "se": 0.8766,
+          "z": 3.802,
+          "p": 0.000143
+        },
+        "Cogn_mean": {
+          "coef": 2.453,
+          "se": 0.6032,
+          "z": 4.066,
+          "p": 4.8e-05
+        },
+        "Geo_mean": {
+          "coef": 2.0063,
+          "se": 0.9462,
+          "z": 2.12,
+          "p": 0.03398
+        }
+      }
+    },
+    "model3_interaction": {
+      "description": "Interaction: + TMT_AI_share x Region",
+      "pseudo_r2": 0.2892,
+      "aic": 215.8,
+      "bic": 239.2,
+      "n": 209,
+      "coefficients": {
+        "const": {
+          "coef": -5.8938,
+          "se": 1.3767,
+          "z": -4.281,
+          "p": 1.9e-05
+        },
+        "TMT_AI_share": {
+          "coef": -2.9655,
+          "se": 2.0701,
+          "z": -1.433,
+          "p": 0.151988
+        },
+        "AI_Share": {
+          "coef": 2.0682,
+          "se": 0.5232,
+          "z": 3.953,
+          "p": 7.7e-05
+        },
+        "Region": {
+          "coef": 1.5222,
+          "se": 1.0261,
+          "z": 1.484,
+          "p": 0.137921
+        },
+        "Cogn_mean": {
+          "coef": 2.267,
+          "se": 0.6183,
+          "z": 3.667,
+          "p": 0.000246
+        },
+        "Geo_mean": {
+          "coef": 1.9854,
+          "se": 0.98,
+          "z": 2.026,
+          "p": 0.042762
+        },
+        "TMT_x_Region": {
+          "coef": 7.9487,
+          "se": 2.8716,
+          "z": 2.768,
+          "p": 0.005639
+        }
+      }
+    }
+  },
+  "descriptive_statistics": {
+    "Firm_AI": {
+      "count": 209.0,
+      "mean": 0.4163,
+      "std": 0.4941,
+      "min": 0.0,
+      "25%": 0.0,
+      "50%": 0.0,
+      "75%": 1.0,
+      "max": 1.0
+    },
+    "TMT_AI_share": {
+      "count": 209.0,
+      "mean": 0.2509,
+      "std": 0.3785,
+      "min": 0.0,
+      "25%": 0.0,
+      "50%": 0.0,
+      "75%": 0.5,
+      "max": 1.0
+    },
+    "Geo_mean": {
+      "count": 209.0,
+      "mean": 0.8257,
+      "std": 0.21,
+      "min": -0.0006,
+      "25%": 0.6951,
+      "50%": 0.9244,
+      "75%": 0.9832,
+      "max": 0.9997
+    },
+    "Cogn_mean": {
+      "count": 209.0,
+      "mean": 0.4556,
+      "std": 0.2888,
+      "min": 0.0037,
+      "25%": 0.2512,
+      "50%": 0.3701,
+      "75%": 0.69,
+      "max": 0.98
+    },
+    "Region": {
+      "count": 209.0,
+      "mean": 0.7478,
+      "std": 0.2091,
+      "min": 0.2,
+      "25%": 0.5758,
+      "50%": 0.78,
+      "75%": 0.97,
+      "max": 1.0
+    },
+    "Sector": {
+      "count": 209.0,
+      "mean": 0.6001,
+      "std": 0.0401,
+      "min": 0.5917,
+      "25%": 0.5917,
+      "50%": 0.5929,
+      "75%": 0.5976,
+      "max": 1.0
+    },
+    "ComplexAI": {
+      "count": 209.0,
+      "mean": 0.6391,
+      "std": 0.3582,
+      "min": 0.0031,
+      "25%": 0.3135,
+      "50%": 0.7635,
+      "75%": 0.9793,
+      "max": 0.9995
+    },
+    "AI_Share": {
+      "count": 209.0,
+      "mean": 0.459,
+      "std": 0.3463,
+      "min": 0.0303,
+      "25%": 0.1515,
+      "50%": 0.3333,
+      "75%": 0.88,
+      "max": 1.0
+    },
+    "TMT_x_Region": {
+      "count": 209.0,
+      "mean": 0.1902,
+      "std": 0.3031,
+      "min": 0.0,
+      "25%": 0.0,
+      "50%": 0.0,
+      "75%": 0.3233,
+      "max": 1.0
+    }
+  },
+  "correlation_matrix": {
+    "Firm_AI": {
+      "Firm_AI": 1.0,
+      "TMT_AI_share": 0.3257,
+      "Region": 0.2566,
+      "AI_Share": 0.1677,
+      "ComplexAI": 0.0302,
+      "Cogn_mean": 0.3443,
+      "Geo_mean": -0.0258
+    },
+    "TMT_AI_share": {
+      "Firm_AI": 0.3257,
+      "TMT_AI_share": 1.0,
+      "Region": 0.0326,
+      "AI_Share": -0.2077,
+      "ComplexAI": -0.1522,
+      "Cogn_mean": 0.1713,
+      "Geo_mean": -0.3705
+    },
+    "Region": {
+      "Firm_AI": 0.2566,
+      "TMT_AI_share": 0.0326,
+      "Region": 1.0,
+      "AI_Share": 0.0168,
+      "ComplexAI": -0.011,
+      "Cogn_mean": 0.0562,
+      "Geo_mean": -0.0356
+    },
+    "AI_Share": {
+      "Firm_AI": 0.1677,
+      "TMT_AI_share": -0.2077,
+      "Region": 0.0168,
+      "AI_Share": 1.0,
+      "ComplexAI": 0.0788,
+      "Cogn_mean": 0.0371,
+      "Geo_mean": 0.0674
+    },
+    "ComplexAI": {
+      "Firm_AI": 0.0302,
+      "TMT_AI_share": -0.1522,
+      "Region": -0.011,
+      "AI_Share": 0.0788,
+      "ComplexAI": 1.0,
+      "Cogn_mean": 0.0102,
+      "Geo_mean": -0.0343
+    },
+    "Cogn_mean": {
+      "Firm_AI": 0.3443,
+      "TMT_AI_share": 0.1713,
+      "Region": 0.0562,
+      "AI_Share": 0.0371,
+      "ComplexAI": 0.0102,
+      "Cogn_mean": 1.0,
+      "Geo_mean": -0.0615
+    },
+    "Geo_mean": {
+      "Firm_AI": -0.0258,
+      "TMT_AI_share": -0.3705,
+      "Region": -0.0356,
+      "AI_Share": 0.0674,
+      "ComplexAI": -0.0343,
+      "Cogn_mean": -0.0615,
+      "Geo_mean": 1.0
+    }
+  },
+  "mann_whitney_tests": {
+    "TMT_AI_share": {
+      "U_statistic": 3700.0,
+      "p_value": 1.5e-05,
+      "mean_non_adopter": 0.1471,
+      "mean_adopter": 0.3966
+    },
+    "Region": {
+      "U_statistic": 3973.0,
+      "p_value": 0.001884,
+      "mean_non_adopter": 0.7026,
+      "mean_adopter": 0.8112
+    },
+    "AI_Share": {
+      "U_statistic": 4129.5,
+      "p_value": 0.006252,
+      "mean_non_adopter": 0.4101,
+      "mean_adopter": 0.5277
+    },
+    "Cogn_mean": {
+      "U_statistic": 3566.5,
+      "p_value": 5.4e-05,
+      "mean_non_adopter": 0.3718,
+      "mean_adopter": 0.5731
+    },
+    "Geo_mean": {
+      "U_statistic": 5447.0,
+      "p_value": 0.74618,
+      "mean_non_adopter": 0.8302,
+      "mean_adopter": 0.8193
+    },
+    "ComplexAI": {
+      "U_statistic": 4904.5,
+      "p_value": 0.350081,
+      "mean_non_adopter": 0.63,
+      "mean_adopter": 0.6519
+    }
+  },
+  "sample_info": {
+    "total_n": 209,
+    "adopters": 87,
+    "non_adopters": 122,
+    "adoption_rate": 0.4163
+  }
+}
